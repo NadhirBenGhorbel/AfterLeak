@@ -11234,6 +11234,234 @@
         }
       ],
       "sourceCount": 6
+    },
+    {
+      "index": 104,
+      "previousHash": "6dfac4d336e64596212aa9f3d56560d778d6f7b16e5ba8194920f800694564a4",
+      "hash": "4b99e71622b57bd5f4f42305adcd4e68f0d390b3b04900c6394549673a9cd334",
+      "capturedAt": "2026-09-30T12:43:34.418Z",
+      "sources": [
+        {
+          "source": "local-breach-dataset",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.016Z",
+          "recordCount": 1200,
+          "digest": "ca6c52db50c6594d2f7959b010adc6afc71f2c5ae4d75ca3b9840f79c26e6380",
+          "sample": [
+            {
+              "id": "dataset-1",
+              "title": "Ameli / CPAM"
+            },
+            {
+              "id": "dataset-2",
+              "title": "RATP"
+            },
+            {
+              "id": "dataset-3",
+              "title": "Voyages-sncf"
+            }
+          ],
+          "note": "1200 entrées locales disponibles et 296 profils distincts détectés."
+        },
+        {
+          "source": "cisa-kev",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.145Z",
+          "recordCount": 1729,
+          "digest": "58a09f25ea24b529af3ad0e9cab43c6a67f072dbde5903028a22d3074c50428d",
+          "sample": [
+            {
+              "id": "cisa-1",
+              "title": "CVE-2026-86950"
+            },
+            {
+              "id": "cisa-2",
+              "title": "CVE-2026-88772"
+            },
+            {
+              "id": "cisa-3",
+              "title": "CVE-2026-88771"
+            }
+          ],
+          "note": "1729 entrées KEV récupérées."
+        },
+        {
+          "source": "nvd-cve",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.415Z",
+          "recordCount": 5,
+          "digest": "7dea3193c9aadfad872addae6dc53738ccda212c4b285cb611f946bab5979b54",
+          "sample": [
+            {
+              "id": "nvd-1",
+              "title": "CVE-1"
+            },
+            {
+              "id": "nvd-2",
+              "title": "CVE-2"
+            },
+            {
+              "id": "nvd-3",
+              "title": "CVE-3"
+            }
+          ],
+          "note": "5 CVE récupérées depuis NVD."
+        },
+        {
+          "source": "cert-fr-rss",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.125Z",
+          "recordCount": 40,
+          "digest": "e1dbbcba6421206dfb999b1ddbcb3fb004890434528ab5c654285c18a8924173",
+          "sample": [
+            {
+              "id": "cert-1",
+              "title": "Bulletin d'actualité CERTFR-2014-ACT-004 (24 janvier 2014)"
+            },
+            {
+              "id": "cert-2",
+              "title": "Bulletin d'actualité CERTFR-2015-ACT-006 (09 février 2015)"
+            },
+            {
+              "id": "cert-3",
+              "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)"
+            }
+          ],
+          "note": "40 éléments CERT-FR extraits."
+        },
+        {
+          "source": "mitre-cve",
+          "status": "unavailable",
+          "fetchedAt": "2026-09-30T12:43:34.223Z",
+          "recordCount": 0,
+          "digest": "5c163b88720ece35b9337cebe9927e24a57483587eca53859f6f84cfaf89816c",
+          "sample": [],
+          "note": "Aucune référence MITRE trouvée."
+        },
+        {
+          "source": "hibp",
+          "status": "skipped",
+          "fetchedAt": "2026-09-30T12:43:34.026Z",
+          "recordCount": 0,
+          "digest": "b0717aabb5c78e4937e5b32ec539297793f05a55274917bf1b0b8fb50d54cb29",
+          "note": "HIBP non sollicité : aucune clé API disponible."
+        }
+      ],
+      "sourceCount": 6
+    },
+    {
+      "index": 105,
+      "previousHash": "4b99e71622b57bd5f4f42305adcd4e68f0d390b3b04900c6394549673a9cd334",
+      "hash": "b12800eba404a146fb11d9ce4ecff07d6ca09a436a1bf211d823ee7608f31767",
+      "capturedAt": "2026-09-30T12:43:34.437Z",
+      "sources": [
+        {
+          "source": "local-breach-dataset",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.081Z",
+          "recordCount": 1200,
+          "digest": "ca6c52db50c6594d2f7959b010adc6afc71f2c5ae4d75ca3b9840f79c26e6380",
+          "sample": [
+            {
+              "id": "dataset-1",
+              "title": "Ameli / CPAM"
+            },
+            {
+              "id": "dataset-2",
+              "title": "RATP"
+            },
+            {
+              "id": "dataset-3",
+              "title": "Voyages-sncf"
+            }
+          ],
+          "note": "1200 entrées locales disponibles et 296 profils distincts détectés."
+        },
+        {
+          "source": "cisa-kev",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.184Z",
+          "recordCount": 1729,
+          "digest": "58a09f25ea24b529af3ad0e9cab43c6a67f072dbde5903028a22d3074c50428d",
+          "sample": [
+            {
+              "id": "cisa-1",
+              "title": "CVE-2026-86950"
+            },
+            {
+              "id": "cisa-2",
+              "title": "CVE-2026-88772"
+            },
+            {
+              "id": "cisa-3",
+              "title": "CVE-2026-88771"
+            }
+          ],
+          "note": "1729 entrées KEV récupérées."
+        },
+        {
+          "source": "nvd-cve",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.434Z",
+          "recordCount": 5,
+          "digest": "7dea3193c9aadfad872addae6dc53738ccda212c4b285cb611f946bab5979b54",
+          "sample": [
+            {
+              "id": "nvd-1",
+              "title": "CVE-1"
+            },
+            {
+              "id": "nvd-2",
+              "title": "CVE-2"
+            },
+            {
+              "id": "nvd-3",
+              "title": "CVE-3"
+            }
+          ],
+          "note": "5 CVE récupérées depuis NVD."
+        },
+        {
+          "source": "cert-fr-rss",
+          "status": "ok",
+          "fetchedAt": "2026-09-30T12:43:34.174Z",
+          "recordCount": 40,
+          "digest": "e1dbbcba6421206dfb999b1ddbcb3fb004890434528ab5c654285c18a8924173",
+          "sample": [
+            {
+              "id": "cert-1",
+              "title": "Bulletin d'actualité CERTFR-2014-ACT-004 (24 janvier 2014)"
+            },
+            {
+              "id": "cert-2",
+              "title": "Bulletin d'actualité CERTFR-2015-ACT-006 (09 février 2015)"
+            },
+            {
+              "id": "cert-3",
+              "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)"
+            }
+          ],
+          "note": "40 éléments CERT-FR extraits."
+        },
+        {
+          "source": "mitre-cve",
+          "status": "unavailable",
+          "fetchedAt": "2026-09-30T12:43:34.224Z",
+          "recordCount": 0,
+          "digest": "5c163b88720ece35b9337cebe9927e24a57483587eca53859f6f84cfaf89816c",
+          "sample": [],
+          "note": "Aucune référence MITRE trouvée."
+        },
+        {
+          "source": "hibp",
+          "status": "skipped",
+          "fetchedAt": "2026-09-30T12:43:34.089Z",
+          "recordCount": 0,
+          "digest": "b0717aabb5c78e4937e5b32ec539297793f05a55274917bf1b0b8fb50d54cb29",
+          "note": "HIBP non sollicité : aucune clé API disponible."
+        }
+      ],
+      "sourceCount": 6
     }
   ]
 }
