@@ -1,0 +1,1201 @@
+﻿site_structure,types_donnees_fuitees,EmailUtilisateur,telephone,date_fuite,adresse,données_médicales,données_bancaires,téléphone,email,identité,mot_de_passe,numéro_sécu,CV,revenus,historique_achats,IBAN,numéro_contrat,données_fiscales,permis_conduire,données_localisation
+Ameli / CPAM,adresse; données_médicales,alexis-guérin37@live.fr,+41073923321,2019-04-01,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RATP,données_bancaires; téléphone,alexis-guérin37@live.fr,+33078819736,2024-05-23,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Voyages-sncf,données_bancaires; email,alexis-guérin37@live.fr,+14385632729,2019-11-12,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,données_bancaires; téléphone; identité; email,alexis.garnier@orange.fr,+32048175604,2024-03-26,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,mot_de_passe; données_bancaires; email; identité,alexis.garnier@orange.fr,+34663581783,2020-07-28,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; identité,alexis.laurent@gmail.com,+440705232792,2020-11-30,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Just Eat,mot_de_passe; données_bancaires; email; adresse,alexis.laurent@gmail.com,+34601027616,2024-08-17,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Orange,identité; données_bancaires; téléphone; mot_de_passe,alexis.laurent@gmail.com,+490152490652,2021-11-28,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Nocibé,téléphone; mot_de_passe; adresse,alexis.laurent@gmail.com,+34730374862,2021-01-14,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+LinkedIn,email; mot_de_passe; CV; identité,alexis.laurent@gmail.com,+32048702929,2022-08-05,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0
+Nocibé,adresse; email,alexis.laurent@gmail.com,+41071124226,2020-11-29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; email; données_bancaires; mot_de_passe,alexis.laurent@gmail.com,+33068573415,2019-03-07,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Free,identité; données_bancaires; adresse; email,alexis.laurent@gmail.com,+33068409053,2019-12-04,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Doctolib,email; données_médicales; téléphone; numéro_sécu; identité,alexis.michel45@yahoo.fr,+41075666581,2020-02-16,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; identité,alexis.michel45@yahoo.fr,+33065673434,2020-09-27,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+AXA,données_médicales; données_bancaires,alexis_lopez@orange.fr,+33073364717,2019-10-06,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nespresso,email; identité; mot_de_passe,alexis_lopez@orange.fr,+41071845782,2020-02-04,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; identité; adresse,alexis_lopez@orange.fr,+213066469246,2023-02-03,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,email; téléphone,alexis_morel@bbox.fr,+490179973653,2018-05-18,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; email; identité; données_bancaires,alexis_morel@bbox.fr,+32045432463,2021-03-02,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Pôle Emploi,numéro_sécu; identité; revenus; CV; email,alexismercier@yahoo.fr,+41076018830,2020-11-07,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0
+Orange,données_bancaires; mot_de_passe,alexismercier@yahoo.fr,+34728734678,2022-11-18,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; données_médicales; adresse,alexisrousseau2@yahoo.fr,+34730141900,2020-01-08,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Amazon FR,mot_de_passe; historique_achats; données_bancaires; adresse,alexisrousseau2@yahoo.fr,+41075899431,2020-09-23,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Dailymotion,mot_de_passe; email,alexisrousseau2@yahoo.fr,+21656247522,2020-11-02,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Cdiscount,identité; téléphone; mot_de_passe; données_bancaires; adresse,alexisrousseau2@yahoo.fr,+213066682543,2019-01-05,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Free,données_bancaires; email; mot_de_passe; adresse; téléphone,alexisrousseau2@yahoo.fr,+33079627972,2021-12-26,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Dailymotion,email; identité; mot_de_passe,alexisrousseau2@yahoo.fr,+33067801571,2022-09-25,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,adresse; téléphone; données_bancaires; mot_de_passe,alexisrousseau2@yahoo.fr,+32048098409,2024-03-11,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,mot_de_passe; données_bancaires; identité; email,alice-durand@free.fr,+32049422906,2020-08-03,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,IBAN; adresse,alice-durand@free.fr,+33065838427,2019-07-04,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+Just Eat,mot_de_passe; téléphone; email; adresse,alice-durand@free.fr,+33073317244,2018-02-20,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Doctolib,identité; données_médicales; numéro_sécu; email,alice.martinez@live.fr,+490161838258,2019-04-27,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Crédit Agricole,IBAN; adresse; email; données_bancaires,alice.martinez@live.fr,+33062228108,2021-05-08,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Nocibé,mot_de_passe; identité; adresse; email,alice.martinez@live.fr,+490162539992,2025-02-25,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; email; identité; mot_de_passe; données_bancaires,alice_dubois57@orange.fr,+32045634212,2023-12-17,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,historique_achats; email; mot_de_passe; adresse,alice_dubois57@orange.fr,+352063613979,2019-05-03,1,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Veolia,adresse; identité; données_bancaires; téléphone,alice_dubois57@orange.fr,+21622275459,2021-01-23,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Orange,données_bancaires; adresse; téléphone; identité; email,alice_dubois57@orange.fr,+33070422048,2019-01-17,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; données_bancaires,alice_martin@live.fr,+33071761052,2022-01-18,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bouygues Telecom,téléphone; email; adresse; mot_de_passe,alice_martin@live.fr,+440755064938,2022-03-25,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Nocibé,mot_de_passe; adresse; identité; email,alice_martin@live.fr,+33064668328,2019-02-10,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Free,email; mot_de_passe,alice_martinez@icloud.com,+41073342916,2024-05-29,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Darty,identité; email; adresse; mot_de_passe,alice_martinez@icloud.com,+33063224042,2022-03-08,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Carrefour,email; mot_de_passe; identité; téléphone,alice_martinez@icloud.com,+440720086712,2021-05-05,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; mot_de_passe; données_bancaires; email,alice_robert31@free.fr,+440756279158,2021-08-04,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+MAIF,adresse; identité; email; données_bancaires,alicehenry@live.fr,+33069731693,2018-09-25,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+AXA,données_médicales; adresse,alicehenry@live.fr,+213052732428,2022-09-10,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,email; mot_de_passe; identité; téléphone; données_bancaires,alicehenry@live.fr,+490178133836,2019-12-13,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Boursorama,IBAN; données_bancaires; identité; email,alicelopez@orange.fr,+41073459573,2020-04-11,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Uber Eats,données_bancaires; adresse; email; téléphone; mot_de_passe,alicelopez@orange.fr,+33060605304,2023-12-31,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,identité; téléphone,alicelopez@orange.fr,+33074098435,2019-12-30,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,numéro_contrat; téléphone; données_bancaires; adresse; identité,alicelopez@orange.fr,+33065624843,2024-02-29,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+Deliveroo,téléphone; données_bancaires; adresse; email,alicelopez@orange.fr,+352060532916,2021-04-16,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),identité; revenus; données_fiscales; email; adresse,anais-chevalier@protonmail.com,+33075638210,2023-11-15,1,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+Fnac,téléphone; données_bancaires; adresse; email; identité,anais-chevalier@protonmail.com,+33063359410,2019-04-07,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Fnac,mot_de_passe; identité; données_bancaires; téléphone,anais-chevalier@protonmail.com,+41076157686,2022-05-18,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Decathlon,mot_de_passe; email; identité; adresse,anais-chevalier@protonmail.com,+212075514831,2018-06-07,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Boulanger,email; adresse; données_bancaires; identité; mot_de_passe,anais-chevalier@protonmail.com,+213053459144,2022-05-23,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Doctolib,données_médicales; identité,anais-laurent99@free.fr,+440737780941,2025-01-28,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,identité; email; numéro_sécu; données_bancaires; adresse,anais-laurent99@free.fr,+212071047765,2024-06-25,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Lidl Plus,téléphone; adresse,anais-nicolas@icloud.com,+34698146319,2019-10-22,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+CAF,numéro_sécu; revenus; identité; adresse,anais-nicolas@icloud.com,+213067759100,2022-11-04,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+Uber Eats,adresse; email; données_bancaires; téléphone,anais-nicolas@icloud.com,+440726369900,2022-09-27,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Voyages-sncf,email; adresse; données_bancaires,anais-simon@protonmail.com,+33073310642,2024-01-24,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Leetchi,identité; email; données_bancaires,anais-simon@protonmail.com,+21624261426,2025-01-23,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Free,email; identité; données_bancaires; téléphone; mot_de_passe,anais-simon@protonmail.com,+41071484424,2021-04-30,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; email,anais-simon@protonmail.com,+15140914762,2023-11-27,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Doctolib,numéro_sécu; téléphone; données_médicales,anais-simon@protonmail.com,+213069738474,2022-03-29,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Veolia,téléphone; données_bancaires,anais.mercier@bbox.fr,+34727423582,2018-12-24,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Uber Eats,mot_de_passe; données_bancaires; adresse; email; téléphone,anais.mercier@bbox.fr,+212069598138,2025-02-26,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Basic Fit,données_bancaires; identité; email; téléphone,anais.mercier@bbox.fr,+41079056910,2018-09-11,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,numéro_sécu; email; données_médicales; adresse; identité,anais.mercier@bbox.fr,+41076711031,2019-12-23,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Amazon FR,email; adresse,anais.mercier@bbox.fr,+212064312442,2025-05-10,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,mot_de_passe; données_bancaires; téléphone,anais.richard@free.fr,+21693191503,2024-04-06,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Deezer,données_bancaires; identité,anais.richard@free.fr,+33075807478,2020-11-11,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,identité; données_bancaires; données_médicales; adresse,anais.richard@free.fr,+440735205833,2022-04-25,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,données_bancaires; téléphone; email,anais.richard@free.fr,+212077295828,2021-02-12,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Carrefour,mot_de_passe; adresse; téléphone; données_bancaires,anaisfontaine98@protonmail.com,+21694009952,2025-05-01,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAF,téléphone; adresse; revenus; données_bancaires; identité,anaisfontaine98@protonmail.com,+33070185845,2019-03-13,1,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+Uber Eats,téléphone; mot_de_passe; email; adresse; données_bancaires,anaisfontaine98@protonmail.com,+33071840563,2020-10-27,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,identité; données_bancaires; adresse,anaisfontaine98@protonmail.com,+490150217668,2021-07-02,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,données_bancaires; téléphone; adresse; numéro_contrat; identité,anaisfontaine98@protonmail.com,+34759641352,2023-07-02,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+Vinted,identité; données_bancaires; mot_de_passe; téléphone; email,anaisfontaine98@protonmail.com,+33071056593,2018-02-02,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+LinkedIn,identité; CV; téléphone; mot_de_passe; email,antoine-chevalier35@wanadoo.fr,+440794462224,2023-08-18,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+EDF,identité; données_bancaires; email; numéro_contrat; téléphone,antoine-chevalier35@wanadoo.fr,+15148884236,2019-05-25,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+Darty,identité; adresse; données_bancaires; email,antoine-faure@hotmail.fr,+34644661507,2023-08-05,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Twitter/X,identité; email; téléphone,antoine-faure@hotmail.fr,+33071743802,2020-01-30,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Darty,données_bancaires; adresse; identité; mot_de_passe; email,antoine-faure@hotmail.fr,+352065825801,2018-02-12,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Free,mot_de_passe; téléphone,antoine-faure@hotmail.fr,+33060738770,2022-04-02,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Just Eat,téléphone; email; adresse; données_bancaires; mot_de_passe,antoine-michel@wanadoo.fr,+33069326228,2020-10-15,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Boulanger,adresse; identité,antoine-michel@wanadoo.fr,+352069004003,2019-07-02,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Engie,téléphone; email; adresse,antoine-michel@wanadoo.fr,+440757249520,2019-08-24,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Bpifrance,email; revenus; données_bancaires,antoine-morel@orange.fr,+212079583642,2018-06-18,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0
+Carrefour,mot_de_passe; données_bancaires; email; téléphone,antoine-morel@orange.fr,+34771664947,2018-03-14,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+MMA Assurances,données_médicales; numéro_sécu,antoine-morel@orange.fr,+33060432028,2025-05-05,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Boulanger,adresse; email; identité; données_bancaires; mot_de_passe,antoine-vincent@orange.fr,+21624456562,2019-01-09,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,adresse; identité; données_bancaires,antoine-vincent@orange.fr,+213065202877,2018-12-10,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; téléphone; mot_de_passe; email; identité,antoine-vincent@orange.fr,+33075259290,2019-06-08,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; données_bancaires; téléphone,antoine-vincent@orange.fr,+34789273816,2021-10-01,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; IBAN; numéro_sécu; identité; adresse,antoine-vincent@orange.fr,+32049855311,2019-06-26,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+Dailymotion,mot_de_passe; identité; email,antoine-vincent@orange.fr,+33066236351,2022-04-30,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,mot_de_passe; permis_conduire; téléphone; données_bancaires,antoine.dupont@yahoo.fr,+33060176347,2018-01-17,0,0,1,1,0,0,1,0,0,0,0,0,0,0,1,0
+Amazon FR,mot_de_passe; historique_achats; données_bancaires; adresse,antoine.dupont@yahoo.fr,+32048028696,2020-02-01,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Crédit Agricole,adresse; numéro_sécu; IBAN; données_bancaires,antoine.dupont@yahoo.fr,+32049292795,2021-08-11,1,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0
+Bouygues Telecom,email; adresse; identité,antoine.dupont@yahoo.fr,+14387772787,2025-04-13,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,adresse; mot_de_passe; données_bancaires; identité; email,antoine.lopez14@free.fr,+440787971707,2020-01-07,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Paylib,identité; IBAN,antoine.lopez14@free.fr,+33065706650,2022-10-04,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+LinkedIn,mot_de_passe; email; téléphone; identité; CV,antoine.lopez14@free.fr,+14382186801,2018-12-07,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+Yves Rocher,adresse; mot_de_passe; identité; téléphone; email,antoine.lopez14@free.fr,+33062340500,2023-05-03,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Boulanger,identité; adresse; email,antoine.lopez14@free.fr,+212060339338,2018-02-13,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,données_bancaires; mot_de_passe,antoine_clément86@live.fr,+212062747555,2018-08-11,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Vinted,email; identité; téléphone; données_bancaires; mot_de_passe,antoine_clément86@live.fr,+213063407129,2020-11-20,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Facebook,identité; données_localisation; téléphone,antoine_clément86@live.fr,+33066455275,2019-05-15,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Facebook,données_localisation; identité; téléphone,antoinedupont49@gmail.com,+490167707048,2022-09-27,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+LinkedIn,identité; téléphone,antoinedupont49@gmail.com,+440751065025,2021-03-22,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,email; CV; revenus; adresse; numéro_sécu,antoinedupont49@gmail.com,+32049954546,2021-10-16,1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,0
+Bouygues Telecom,téléphone; identité,antoinedupont49@gmail.com,+33064811711,2020-11-22,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,identité; téléphone,antoinedupont49@gmail.com,+490151565330,2023-04-20,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Blablacar,identité; téléphone; email; mot_de_passe,antoinefaure8@hotmail.fr,+21628486205,2022-06-18,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,email; adresse; téléphone; identité,antoinefaure8@hotmail.fr,+32046472290,2023-08-11,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+AXA,données_médicales; adresse; numéro_sécu; email; données_bancaires,arthur-faure16@live.fr,+490152045720,2025-02-02,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Orange,email; données_bancaires; adresse; téléphone,arthur-faure16@live.fr,+33075943530,2023-01-22,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Blablacar,mot_de_passe; identité,arthur-faure16@live.fr,+33076191820,2023-09-15,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,email; mot_de_passe; identité,arthur-faure16@live.fr,+490173576529,2023-11-27,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Uber Eats,téléphone; mot_de_passe; adresse,arthur-fontaine81@wanadoo.fr,+21623687463,2024-01-27,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+AXA,email; numéro_sécu,arthur-fontaine81@wanadoo.fr,+352064803573,2023-07-25,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Amazon FR,données_bancaires; adresse; historique_achats; email,arthur-fontaine81@wanadoo.fr,+33062034601,2024-02-03,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+Boulanger,mot_de_passe; adresse; email; identité; données_bancaires,arthur-fontaine81@wanadoo.fr,+33060311111,2021-03-07,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; email; revenus; données_bancaires,arthur-gauthier58@sfr.fr,+33075527690,2019-07-05,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+Darty,données_bancaires; mot_de_passe; adresse; identité; email,arthur-gauthier58@sfr.fr,+41077387515,2025-03-15,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Uber Eats,données_bancaires; mot_de_passe; téléphone; email,arthur-gauthier58@sfr.fr,+33074903308,2018-05-15,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Facebook,données_localisation; identité; téléphone,arthur-gauthier58@sfr.fr,+34739714863,2020-04-27,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Blablacar,mot_de_passe; téléphone,arthur-gauthier58@sfr.fr,+33062712322,2022-12-24,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Amazon FR,mot_de_passe; email; données_bancaires; adresse,arthur-lefèvre12@free.fr,+490161941338,2022-09-05,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,mot_de_passe; adresse; téléphone; email; identité,arthur-lefèvre12@free.fr,+212069797949,2020-02-11,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+MSA,données_médicales; email,arthur-lefèvre12@free.fr,+33072878573,2022-01-29,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sephora,téléphone; email; données_bancaires,arthur-lefèvre12@free.fr,+212062112938,2019-05-05,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+MSA,données_médicales; adresse,arthur.girard@wanadoo.fr,+33074046259,2019-10-25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; email; identité,arthur.girard@wanadoo.fr,+33069384522,2023-05-14,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,identité; adresse; téléphone,arthur.girard@wanadoo.fr,+490165972553,2018-06-22,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Orange,identité; données_bancaires; email,arthur.girard@wanadoo.fr,+33074398917,2020-10-01,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Veolia,données_bancaires; identité; téléphone; adresse; email,arthur.girard@wanadoo.fr,+14387447239,2022-12-18,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Orange,email; mot_de_passe; adresse; téléphone; données_bancaires,arthur.girard@wanadoo.fr,+33068740506,2021-11-06,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Leetchi,identité; données_bancaires; mot_de_passe,arthur.girard@wanadoo.fr,+212069848126,2019-04-29,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,adresse; email,arthur.perrin40@live.fr,+212068532081,2018-12-17,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+AXA,données_bancaires; email; numéro_sécu,arthur.perrin40@live.fr,+352069648698,2022-01-11,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Nespresso,adresse; mot_de_passe; données_bancaires; email,arthur.perrin40@live.fr,+14160917999,2022-11-13,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Deliveroo,email; mot_de_passe; données_bancaires; téléphone; adresse,arthur.perrin40@live.fr,+32045510123,2019-04-29,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,téléphone; identité; adresse,arthur.petit66@wanadoo.fr,+16479339704,2018-03-30,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Airbnb FR,identité; données_bancaires,arthur_petit39@hotmail.fr,+33077402391,2023-01-26,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Facebook,données_localisation; identité; email,arthur_petit39@hotmail.fr,+33072869239,2020-04-07,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Just Eat,email; téléphone,arthur_petit39@hotmail.fr,+41071115723,2022-11-28,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,identité; adresse,arthur_petit39@hotmail.fr,+21691163847,2023-05-05,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,téléphone; mot_de_passe; adresse; email; identité,arthur_petit39@hotmail.fr,+33079699527,2021-02-25,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Boulanger,email; adresse; données_bancaires; mot_de_passe; identité,arthur_petit39@hotmail.fr,+33062677456,2023-04-09,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Leboncoin,téléphone; mot_de_passe,arthur_petit39@hotmail.fr,+32049803788,2023-11-04,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Intermarché,téléphone; identité,arthur_thomas@orange.fr,+33076803179,2021-09-08,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Dailymotion,email; mot_de_passe; identité,arthur_thomas@orange.fr,+21696703313,2022-11-13,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; adresse; email,arthur_thomas@orange.fr,+34722356519,2024-05-16,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Vinted,identité; données_bancaires; téléphone,baptiste.petit1@laposte.net,+212070368620,2024-12-01,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Deliveroo,mot_de_passe; adresse; email,baptiste.petit1@laposte.net,+213068534513,2022-12-02,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; email; mot_de_passe; données_bancaires,baptiste_girard@outlook.fr,+352067596201,2018-09-25,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Boursorama,mot_de_passe; données_bancaires; email; identité; IBAN,baptiste_girard@outlook.fr,+21698085847,2018-12-02,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0
+Engie,données_bancaires; email; adresse; téléphone,baptiste_girard@outlook.fr,+33067224650,2022-03-23,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,mot_de_passe; email; identité,baptiste_girard@outlook.fr,+33079799960,2021-02-17,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,données_bancaires; mot_de_passe; téléphone; identité,baptiste_girard@outlook.fr,+33067823275,2018-03-12,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+MSA,email; numéro_sécu; données_médicales,baptiste_girard@outlook.fr,+33078179920,2021-07-20,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Bpifrance,identité; email; revenus,baptiste_leroy@icloud.com,+212066334220,2020-03-03,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+Darty,données_bancaires; identité,baptiste_leroy@icloud.com,+33075736794,2019-01-20,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; email; téléphone; mot_de_passe; données_bancaires,baptiste_leroy@icloud.com,+33070532500,2021-10-23,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,identité; données_bancaires,baptistemartin12@protonmail.com,+212066805866,2023-08-19,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,adresse; données_bancaires; email,baptistemartin12@protonmail.com,+16473159292,2024-01-11,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Boulanger,données_bancaires; mot_de_passe; identité; email,camille-garcia89@orange.fr,+212060856054,2020-08-19,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+MSA,email; revenus; données_médicales; adresse; numéro_sécu,camille-garcia89@orange.fr,+213062130418,2019-02-07,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Uber Eats,données_bancaires; mot_de_passe; téléphone; adresse; email,camille-garcia89@orange.fr,+33078148173,2020-01-22,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+EDF,données_bancaires; identité; adresse; email,camille-lefèvre@gmail.com,+33065158461,2021-07-25,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Vinted,identité; email; données_bancaires; téléphone; mot_de_passe,camille-lefèvre@gmail.com,+33072589471,2024-09-21,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Leetchi,email; données_bancaires,camille-lefèvre@gmail.com,+440729013587,2020-04-06,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,numéro_sécu; identité; email; données_bancaires; adresse,camille-lefèvre@gmail.com,+34696723795,2022-10-12,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Lidl Plus,téléphone; adresse; données_bancaires; identité,camille-lefèvre@gmail.com,+33071090564,2024-10-20,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Lidl Plus,email; adresse; données_bancaires; téléphone,camille-lefèvre@gmail.com,+213054412901,2020-12-11,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Basic Fit,mot_de_passe; adresse,camille-nicolas83@laposte.net,+32048593236,2021-09-10,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Carrefour,mot_de_passe; identité,camille-nicolas83@laposte.net,+33060900506,2024-07-02,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+RATP,identité; téléphone; données_bancaires,camille-nicolas83@laposte.net,+352065383639,2019-02-16,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; identité; mot_de_passe; email,camille-nicolas83@laposte.net,+33061500119,2021-08-20,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; données_bancaires; email; IBAN,camille-nicolas83@laposte.net,+490170623891,2024-04-16,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Carrefour,identité; mot_de_passe; adresse; téléphone; données_bancaires,camillegarcia90@laposte.net,+21693579624,2024-01-20,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,téléphone; mot_de_passe,camillegarcia90@laposte.net,+41077467457,2024-01-13,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Paylib,email; identité,camillegarcia90@laposte.net,+21699837825,2019-04-13,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+AXA,identité; adresse; données_bancaires,camillegarcia90@laposte.net,+33074784445,2020-01-17,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Société Générale,adresse; téléphone; email; IBAN,camillegarcia90@laposte.net,+33072414046,2020-10-17,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Intermarché,mot_de_passe; email,camillelopez@sfr.fr,+490173716261,2018-10-25,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,adresse; identité,camillelopez@sfr.fr,+352063008798,2024-12-17,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Darty,mot_de_passe; données_bancaires; email; adresse,camillelopez@sfr.fr,+490173010578,2019-08-31,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Deezer,données_bancaires; mot_de_passe; identité,camillelopez@sfr.fr,+33073459611,2022-08-10,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+MAIF,téléphone; adresse,camillelopez@sfr.fr,+33072383028,2022-09-01,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+SFR,email; téléphone; mot_de_passe; adresse; données_bancaires,camillelopez@sfr.fr,+34652420554,2020-04-16,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; IBAN; identité; numéro_sécu,camillelopez@sfr.fr,+33063854635,2022-10-26,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+Just Eat,email; mot_de_passe; données_bancaires; téléphone; adresse,camillelopez@sfr.fr,+33074819615,2021-09-27,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Engie,données_bancaires; adresse,camillemuller97@icloud.com,+440778152267,2024-01-22,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,téléphone; numéro_sécu; adresse; revenus,camillemuller97@icloud.com,+32046277657,2021-08-31,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Intermarché,téléphone; mot_de_passe; identité; email; adresse,camillemuller97@icloud.com,+440739741192,2018-12-26,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Leboncoin,adresse; email; identité; mot_de_passe; téléphone,camillemuller97@icloud.com,+352062786109,2019-05-15,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),email; adresse; revenus,camillemuller97@icloud.com,+213060019006,2020-09-08,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Basic Fit,données_bancaires; adresse; téléphone; email,camillepetit45@sfr.fr,+41079561827,2022-03-20,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Intermarché,mot_de_passe; téléphone,camillepetit45@sfr.fr,+212066732070,2023-08-24,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,identité; téléphone; mot_de_passe; email,celine.girard@outlook.fr,+213060106206,2023-10-24,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; mot_de_passe; données_bancaires; email,celine.girard@outlook.fr,+440753358491,2018-07-21,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,identité; email; données_bancaires,celine.girard@outlook.fr,+34700525907,2020-07-08,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Veolia,adresse; téléphone; données_bancaires; identité,celine_lopez85@orange.fr,+352067110642,2022-07-11,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Fnac,mot_de_passe; téléphone,celine_lopez85@orange.fr,+15147635502,2021-09-17,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,données_bancaires; identité; mot_de_passe,celine_lopez85@orange.fr,+33069600981,2023-06-02,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Uber Eats,téléphone; mot_de_passe; email; adresse,celine_martinez@gmail.com,+21699599002,2020-01-27,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Deezer,mot_de_passe; email,celine_martinez@gmail.com,+32049425112,2020-11-30,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Vinted,email; téléphone; mot_de_passe; identité; données_bancaires,celine_martinez@gmail.com,+14164383478,2021-06-03,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Orange,données_bancaires; email,celine_martinez@gmail.com,+33068264506,2024-03-10,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Engie,email; identité; données_bancaires,celine_martinez@gmail.com,+34686663124,2020-03-14,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; email; historique_achats; données_bancaires; mot_de_passe,celinefournier20@wanadoo.fr,+41078913560,2020-02-14,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+Doctolib,identité; email; données_médicales; téléphone; numéro_sécu,celinefournier20@wanadoo.fr,+33073396997,2023-05-04,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Intermarché,mot_de_passe; identité,celinefournier20@wanadoo.fr,+213076088430,2018-01-18,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Leboncoin,email; identité; adresse; téléphone,celinefournier20@wanadoo.fr,+33060850534,2018-04-08,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; mot_de_passe; données_bancaires; identité,charlotte_clément79@outlook.fr,+41077302613,2019-04-18,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Orange,mot_de_passe; identité; adresse; données_bancaires; téléphone,charlotte_clément79@outlook.fr,+352063658632,2020-02-09,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Intermarché,email; mot_de_passe; téléphone,charlotte_clément79@outlook.fr,+213050474193,2021-01-24,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,identité; données_médicales,charlotte_clément79@outlook.fr,+490160836317,2022-06-17,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Veolia,adresse; identité; téléphone,charlotte_clément79@outlook.fr,+21628721387,2020-06-02,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Intermarché,mot_de_passe; téléphone; email,charlotteandré@protonmail.com,+213056395571,2018-10-21,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+RATP,téléphone; identité,charlotteandré@protonmail.com,+33065507753,2025-01-27,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,email; téléphone,charlotteandré@protonmail.com,+14163766148,2022-06-06,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Lidl Plus,téléphone; email; adresse; identité,charlotteandré@protonmail.com,+33061192559,2020-12-02,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; téléphone; email; mot_de_passe,chloe-blanc40@protonmail.com,+212070512833,2024-12-12,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+CAF,téléphone; adresse; données_bancaires,chloe-blanc40@protonmail.com,+33064796267,2024-12-30,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,données_bancaires; identité; téléphone; mot_de_passe; adresse,chloe-blanc40@protonmail.com,+21693441013,2022-03-25,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+SFR,mot_de_passe; identité; adresse; email,chloe-blanc40@protonmail.com,+212077995066,2018-10-03,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,identité; email; adresse; mot_de_passe,chloe-blanc40@protonmail.com,+33075067346,2023-12-30,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Blablacar,mot_de_passe; email; téléphone; identité,chloe-blanc40@protonmail.com,+32042459662,2018-05-21,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,téléphone; adresse; email; identité,chloe-blanc40@protonmail.com,+21626715672,2022-04-14,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Orange,identité; données_bancaires; adresse; email,chloe-blanc40@protonmail.com,+34757202095,2022-10-07,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Intermarché,identité; téléphone; adresse; email; mot_de_passe,chloe-durand@icloud.com,+21626141541,2020-01-07,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Dailymotion,identité; email,chloe-durand@icloud.com,+33072494717,2019-04-12,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+EDF,téléphone; adresse,chloe-durand@icloud.com,+440736802057,2022-07-27,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Uber Eats,données_bancaires; téléphone; email; mot_de_passe; adresse,chloe-leroy10@protonmail.com,+33063070829,2024-07-14,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+LinkedIn,email; téléphone,chloe-leroy10@protonmail.com,+490168101558,2023-12-18,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Blablacar,mot_de_passe; email; téléphone,chloe-leroy10@protonmail.com,+33064291479,2019-09-18,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Basic Fit,identité; adresse; mot_de_passe,chloe-leroy10@protonmail.com,+15143808215,2019-06-11,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,identité; adresse,chloe-leroy10@protonmail.com,+21690316081,2022-10-18,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,email; identité; adresse,chloe.nicolas94@laposte.net,+32049071410,2024-09-25,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAF,téléphone; revenus; numéro_sécu; données_bancaires; email,chloe.nicolas94@laposte.net,+352067335328,2023-02-23,0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,0
+CAF,identité; adresse; numéro_sécu; téléphone,chloe.robert@wanadoo.fr,+213054832797,2019-01-31,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,adresse; données_bancaires; email; mot_de_passe; identité,chloe.robert@wanadoo.fr,+34619583356,2021-12-22,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Facebook,données_localisation; email,chloe.robert@wanadoo.fr,+41071085152,2019-07-30,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+LinkedIn,email; mot_de_passe,chloe_dubois52@yahoo.fr,+16478549902,2019-08-19,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Basic Fit,adresse; données_bancaires; identité; téléphone,chloe_dubois52@yahoo.fr,+33063953898,2019-10-30,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,identité; téléphone; mot_de_passe,chloe_dubois52@yahoo.fr,+33066748547,2020-05-09,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Engie,email; adresse,chloe_dubois52@yahoo.fr,+21656785493,2018-12-15,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+AXA,identité; adresse,chloedavid@orange.fr,+213054960746,2023-11-04,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,données_bancaires; mot_de_passe; email; adresse,chloedavid@orange.fr,+21650273683,2019-08-12,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Veolia,email; données_bancaires,chloedavid@orange.fr,+490168456645,2019-01-15,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,email; IBAN; données_bancaires; identité,chloedavid@orange.fr,+33062868798,2020-05-12,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Nocibé,identité; téléphone; mot_de_passe; adresse,clara-morel@laposte.net,+14387128741,2018-06-21,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,téléphone; mot_de_passe; adresse; email; identité,clara-morel@laposte.net,+440769687897,2023-02-18,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Doctolib,identité; email,clara-morel@laposte.net,+33064198254,2019-05-25,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Intermarché,email; identité; téléphone,clara-morel@laposte.net,+213063032639,2019-01-23,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Engie,identité; adresse; données_bancaires; téléphone; email,clara-morel@laposte.net,+21655798291,2019-01-31,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; email; mot_de_passe,clara-morel@laposte.net,+33076542065,2021-01-02,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Dailymotion,email; identité,clara-morel@laposte.net,+33064530428,2022-07-10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; données_bancaires; numéro_sécu; identité; email,clara_dupont4@icloud.com,+352062172821,2019-02-27,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Darty,données_bancaires; email,clara_dupont4@icloud.com,+41071217127,2021-02-04,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,identité; données_bancaires; adresse; téléphone,clara_dupont4@icloud.com,+34784889665,2021-12-09,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,mot_de_passe; téléphone,clara_dupont4@icloud.com,+41071278913,2019-12-31,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,identité; mot_de_passe; adresse; email; téléphone,clara_dupont4@icloud.com,+34654724387,2022-02-17,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; IBAN; email; adresse; identité,clara_fournier55@protonmail.com,+352060431612,2020-02-01,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Leetchi,mot_de_passe; email; identité,clara_fournier55@protonmail.com,+41073768408,2025-04-01,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Free,adresse; identité; mot_de_passe; email,clara_legrand92@yahoo.fr,+33071221893,2024-02-25,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Nocibé,téléphone; adresse; mot_de_passe,clara_legrand92@yahoo.fr,+33074950784,2020-12-31,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+EDF,données_bancaires; email; téléphone; adresse,clara_legrand92@yahoo.fr,+32049272924,2019-05-16,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Deezer,données_bancaires; identité; mot_de_passe; email,clara_legrand92@yahoo.fr,+440717812374,2024-06-04,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; IBAN; téléphone; identité; adresse,clara_legrand92@yahoo.fr,+16478396073,2020-08-07,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0
+Basic Fit,adresse; téléphone; données_bancaires,clara_nicolas@numericable.fr,+212068300017,2024-03-20,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,email; mot_de_passe,clarafaure@laposte.net,+21626971111,2018-04-30,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; identité; email; adresse; mot_de_passe,clarafaure@laposte.net,+33079984474,2022-11-21,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Doctolib,identité; téléphone; données_médicales; numéro_sécu; email,clarafaure@laposte.net,+21656849674,2023-08-21,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Intermarché,email; adresse; mot_de_passe,clarafaure@laposte.net,+21620084691,2018-12-13,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Nocibé,email; identité,clarafaure@laposte.net,+14169892308,2018-09-04,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Blablacar,identité; email; téléphone; mot_de_passe,clarafaure@laposte.net,+15143681995,2022-02-11,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,historique_achats; email; adresse,clement-roux16@yahoo.fr,+213065712021,2018-04-20,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Deezer,email; mot_de_passe,clement-roux16@yahoo.fr,+21651996584,2021-03-16,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Orange,adresse; identité; mot_de_passe; email,clement-roux16@yahoo.fr,+32048937064,2019-11-25,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+MMA Assurances,adresse; données_médicales; données_bancaires; email,clement-roux16@yahoo.fr,+33062206081,2024-10-12,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,identité; adresse,clement.faure87@orange.fr,+33077131186,2021-06-15,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Dailymotion,mot_de_passe; email,clement.lefèvre@bbox.fr,+440735318554,2018-09-04,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Carrefour,identité; mot_de_passe; données_bancaires,clement.lefèvre@bbox.fr,+14386299268,2020-02-07,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+EDF,email; données_bancaires; numéro_contrat,clement.lefèvre@bbox.fr,+212063610543,2018-01-27,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+CAF,téléphone; données_bancaires; numéro_sécu; revenus; adresse,clement_faure31@yahoo.fr,+21650317416,2021-05-25,1,0,1,1,0,0,0,1,0,1,0,0,0,0,0,0
+Facebook,identité; téléphone; email,clement_faure31@yahoo.fr,+33061299807,2018-10-13,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,identité; données_bancaires; IBAN; email,clement_faure31@yahoo.fr,+213051159060,2020-06-19,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Orange,téléphone; identité; données_bancaires; adresse,clement_gauthier@outlook.fr,+440724301059,2022-02-24,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+MAIF,adresse; téléphone; email,clement_gauthier@outlook.fr,+33067763537,2019-07-28,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,numéro_sécu; CV; identité; email,clement_gauthier@outlook.fr,+33067004295,2022-03-14,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+SFR,mot_de_passe; identité; téléphone; données_bancaires,clement_martin@laposte.net,+440714869258,2025-01-19,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; identité,clementblanc@icloud.com,+21624103787,2024-09-11,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,identité; email; adresse; mot_de_passe,clementblanc@icloud.com,+212060192479,2023-01-24,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Deliveroo,mot_de_passe; téléphone; données_bancaires,clementblanc@icloud.com,+213054942028,2019-04-08,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Just Eat,données_bancaires; adresse; téléphone; mot_de_passe,clementblanc@icloud.com,+440792737340,2018-10-22,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),numéro_sécu; adresse; données_fiscales,clementblanc@icloud.com,+440720468526,2023-12-17,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+Pôle Emploi,CV; email; identité; revenus,clementblanc@icloud.com,+213057279315,2018-08-10,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,0
+Leboncoin,téléphone; identité; email,clementblanc@icloud.com,+352067307233,2019-06-02,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,IBAN; identité,clementmoreau5@free.fr,+490168923678,2018-12-18,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+MAIF,email; identité; téléphone; adresse; données_bancaires,clementmoreau5@free.fr,+33060934811,2023-11-10,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Sephora,identité; données_bancaires; adresse,clementmoreau5@free.fr,+33078608185,2023-01-24,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,identité; téléphone; mot_de_passe; adresse,clementmoreau5@free.fr,+33068461958,2022-01-15,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Dailymotion,mot_de_passe; identité; email,elodie-moreau@live.fr,+490170587544,2018-11-22,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Sephora,adresse; téléphone; email,elodie-moreau@live.fr,+33070832995,2019-02-09,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Boursorama,IBAN; identité; données_bancaires; mot_de_passe,elodie-moreau@live.fr,+33060860089,2020-10-28,0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,0
+Vinted,email; identité,elodie-moreau@live.fr,+41070547600,2021-06-06,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Deezer,données_bancaires; email; mot_de_passe; identité,elodie.clément@icloud.com,+213064331552,2018-07-30,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Boursorama,mot_de_passe; identité; IBAN; email,elodie.clément@icloud.com,+33068843348,2023-02-19,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,0
+Impôts (DGFiP),adresse; revenus; numéro_sécu,elodie.clément@icloud.com,+41077823989,2018-09-25,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Impôts (DGFiP),adresse; numéro_sécu; revenus,elodie.clément@icloud.com,+32048977580,2018-02-09,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Uber Eats,adresse; mot_de_passe; données_bancaires; téléphone; email,elodie.clément@icloud.com,+14163761080,2022-02-01,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+AXA,numéro_sécu; identité; adresse; email,elodie_muller74@live.fr,+33073640891,2024-02-01,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Nespresso,identité; adresse; email; données_bancaires; mot_de_passe,elodie_muller74@live.fr,+21653225356,2025-03-26,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,email; identité; téléphone; mot_de_passe,elodie_muller74@live.fr,+41074537854,2022-06-08,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Fnac,données_bancaires; identité,elodie_muller74@live.fr,+33077665216,2018-06-07,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,téléphone; identité; mot_de_passe; email,elodiemartin34@orange.fr,+33070696556,2023-07-21,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,données_bancaires; email; adresse,elodiemartin34@orange.fr,+213064974351,2025-05-28,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,adresse; téléphone,elodiemartin34@orange.fr,+33063309667,2024-11-13,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Blablacar,téléphone; identité; mot_de_passe; email,elodiemartin34@orange.fr,+41077452877,2023-05-11,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,identité; email; mot_de_passe; données_bancaires; adresse,elodiemartin34@orange.fr,+33060962298,2021-01-12,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,revenus; identité; données_bancaires; email,emma-morel45@protonmail.com,+33068894469,2024-07-03,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+Lidl Plus,adresse; email,emma-morel45@protonmail.com,+33060599376,2019-08-12,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; données_bancaires; mot_de_passe; téléphone,emmabertrand38@icloud.com,+33065651811,2024-11-11,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+BNP Paribas,email; IBAN,emmabertrand38@icloud.com,+490162964411,2023-08-10,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+EDF,téléphone; données_bancaires; identité; numéro_contrat,emmabertrand38@icloud.com,+32048812426,2021-05-10,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+Darty,mot_de_passe; adresse,emmabertrand38@icloud.com,+14169792869,2025-01-14,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+LinkedIn,email; identité,emmafrançois62@outlook.fr,+212063889987,2018-11-16,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+EDF,adresse; identité; email; données_bancaires; téléphone,emmafrançois62@outlook.fr,+33079077703,2022-10-01,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,identité; revenus; téléphone; email,emmafrançois62@outlook.fr,+32048068279,2023-02-19,0,0,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+Orange,identité; mot_de_passe; données_bancaires; adresse; email,emmafrançois62@outlook.fr,+490158579843,2021-08-23,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,mot_de_passe; email,emmafrançois62@outlook.fr,+33062113059,2021-02-02,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Intermarché,téléphone; email,emmagirard89@orange.fr,+41075119828,2024-05-24,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,téléphone; identité; adresse; données_bancaires; IBAN,emmagirard89@orange.fr,+212075228494,2019-05-27,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0
+Doctolib,identité; téléphone; données_médicales,emmagirard89@orange.fr,+352066408274,2018-11-22,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; téléphone; identité; email,emmagirard89@orange.fr,+33070871442,2020-10-14,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Deliveroo,email; téléphone; mot_de_passe,emmagirard89@orange.fr,+352060806209,2025-05-16,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,email; données_bancaires; mot_de_passe; téléphone; identité,emmalambert49@wanadoo.fr,+33064531451,2024-03-15,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Decathlon,email; identité; téléphone,emmamartin58@orange.fr,+33061988522,2023-03-03,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,numéro_sécu; données_médicales; données_bancaires,emmamartin58@orange.fr,+14166418839,2023-03-17,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+MMA Assurances,email; données_médicales; données_bancaires; numéro_sécu,emmamartin58@orange.fr,+32048296694,2018-05-02,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Amazon FR,mot_de_passe; adresse; historique_achats,emmamartin58@orange.fr,+16476831955,2019-02-27,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0
+Boulanger,adresse; données_bancaires,emmamartin58@orange.fr,+440700682905,2020-06-19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; email; données_bancaires; mot_de_passe,eva-durand3@free.fr,+33064068705,2020-04-15,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Intermarché,adresse; téléphone; identité,eva-durand3@free.fr,+34767855627,2020-09-03,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,téléphone; email; adresse; IBAN; identité,eva-durand3@free.fr,+33069007724,2022-03-11,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Impôts (DGFiP),email; numéro_sécu; données_fiscales; revenus,eva.petit22@hotmail.fr,+16470133309,2022-01-03,0,0,0,0,1,0,0,1,0,1,0,0,0,1,0,0
+Engie,email; téléphone,eva.petit22@hotmail.fr,+34775734964,2023-11-10,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Engie,téléphone; identité; adresse; données_bancaires,eva.petit22@hotmail.fr,+32049386387,2022-11-11,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,adresse; téléphone; données_bancaires; mot_de_passe; email,eva.roux@yahoo.fr,+212062765043,2019-02-14,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+RATP,email; données_bancaires,eva.roux@yahoo.fr,+212077386036,2018-04-20,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Twitter/X,mot_de_passe; email,eva.roux@yahoo.fr,+33061336686,2020-01-19,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,identité; données_bancaires; adresse,eva.roux@yahoo.fr,+352064706077,2022-03-19,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Amazon FR,historique_achats; données_bancaires; email; adresse,eva.roux@yahoo.fr,+33068590593,2021-08-13,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+Sephora,identité; mot_de_passe,eva_bonnet@outlook.fr,+33066633942,2019-04-28,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+RATP,identité; téléphone; données_bancaires; email,eva_bonnet@outlook.fr,+33073112754,2021-04-02,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Nocibé,adresse; email,eva_bonnet@outlook.fr,+440741681113,2019-03-30,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Deliveroo,email; mot_de_passe; téléphone; données_bancaires,eva_bonnet@outlook.fr,+33076833141,2021-12-05,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Vinted,téléphone; identité; données_bancaires; email,eva_martinez40@outlook.fr,+352061190434,2020-08-11,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,mot_de_passe; données_bancaires; email,eva_martinez40@outlook.fr,+32048189890,2024-04-07,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,identité; email; mot_de_passe; téléphone; données_bancaires,eva_martinez40@outlook.fr,+32049605077,2018-04-10,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,adresse; téléphone; données_bancaires; identité,evadavid30@gmail.com,+490165494129,2023-07-08,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; identité; téléphone,evadavid30@gmail.com,+490174864571,2022-09-15,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,mot_de_passe; données_bancaires; email; téléphone; identité,evadavid30@gmail.com,+33079227285,2024-11-29,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Intermarché,email; téléphone; mot_de_passe; identité,evapetit5@outlook.fr,+21691283146,2021-09-18,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,email; mot_de_passe; téléphone; données_bancaires,evapetit5@outlook.fr,+14169759087,2023-03-22,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; identité; email; mot_de_passe,evapetit5@outlook.fr,+14386273922,2020-03-12,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Fnac,données_bancaires; mot_de_passe; email; adresse; téléphone,evapetit5@outlook.fr,+352069437481,2023-05-10,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Uber Eats,adresse; email,evapetit5@outlook.fr,+33079819835,2024-02-07,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,identité; adresse; mot_de_passe; email; téléphone,florian.blanc96@gmail.com,+41073205254,2025-03-07,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,téléphone; mot_de_passe; données_bancaires; adresse,florian.blanc96@gmail.com,+33069784659,2024-07-12,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Vinted,téléphone; identité; email,florian.blanc96@gmail.com,+33077419031,2025-01-07,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MAIF,téléphone; adresse; données_bancaires; identité; email,florian.blanc96@gmail.com,+14160585854,2020-11-27,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Bpifrance,revenus; email; données_bancaires; identité,florian.lopez23@protonmail.com,+33071513124,2024-12-31,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; identité; adresse; données_médicales; email,florian.lopez23@protonmail.com,+33079734485,2022-09-03,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,identité; email; adresse; mot_de_passe,florian.lopez23@protonmail.com,+32048573596,2021-04-14,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,mot_de_passe; identité; email; données_bancaires,florian.lopez23@protonmail.com,+33074147360,2024-06-23,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,email; mot_de_passe; identité,florian.lopez23@protonmail.com,+352069736442,2021-10-14,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,identité; téléphone; email; numéro_sécu,florian.lopez23@protonmail.com,+352069337086,2024-06-21,0,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+La Banque Postale,email; IBAN,florian.moreau34@orange.fr,+32048692514,2021-09-15,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Voyages-sncf,email; mot_de_passe; identité,florian.moreau34@orange.fr,+213062272080,2024-08-23,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,identité; téléphone; numéro_sécu,florian_gauthier@live.fr,+352061057887,2021-06-15,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Pôle Emploi,identité; numéro_sécu; adresse; CV; revenus,florian_gauthier@live.fr,+41077379716,2022-01-29,1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0
+Carrefour,adresse; téléphone; identité,florian_roussel54@icloud.com,+15141648979,2021-03-19,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; identité,florian_roussel54@icloud.com,+41077064030,2018-02-14,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+Yves Rocher,identité; téléphone,florian_roussel54@icloud.com,+33073263899,2019-04-15,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+RATP,données_bancaires; email; téléphone,florian_roussel54@icloud.com,+33074183384,2024-05-04,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Nocibé,téléphone; email; adresse,florian_roussel54@icloud.com,+213074242520,2023-02-22,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Boursorama,données_bancaires; IBAN; identité; email; mot_de_passe,florianchevalier@sfr.fr,+33076440819,2021-07-08,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0
+Lidl Plus,données_bancaires; identité; téléphone,florianchevalier@sfr.fr,+33076810399,2021-07-14,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Deliveroo,mot_de_passe; téléphone,florianchevalier@sfr.fr,+33063740855,2019-05-10,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+BNP Paribas,identité; email; IBAN; adresse,florianchevalier@sfr.fr,+32049266353,2022-06-21,1,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+Uber Eats,téléphone; email,florianfournier43@orange.fr,+213050450858,2023-04-13,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Lidl Plus,email; données_bancaires; téléphone; adresse,gabriel-lambert21@bbox.fr,+14387754439,2020-08-04,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Leetchi,email; mot_de_passe,gabriel-lambert21@bbox.fr,+32049277772,2021-07-26,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Free,email; adresse,gabriel-lambert21@bbox.fr,+490168285620,2024-10-06,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; identité,gabriel-lambert21@bbox.fr,+440739986442,2020-06-21,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Free,téléphone; identité; données_bancaires,gabriel-morin57@live.fr,+440779797250,2023-08-30,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Vinted,mot_de_passe; email,gabriel-morin57@live.fr,+33077229254,2018-07-04,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Amazon FR,historique_achats; mot_de_passe; données_bancaires; adresse,gabriel-morin57@live.fr,+213063092874,2022-08-13,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0
+Yves Rocher,mot_de_passe; téléphone; identité; adresse; email,gabriel-morin57@live.fr,+34748286001,2019-05-07,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Blablacar,téléphone; identité,gabriel.legrand@bbox.fr,+213076505342,2021-04-04,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Darty,identité; adresse; email; données_bancaires,gabriel.legrand@bbox.fr,+33072714645,2019-12-18,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; email; identité; mot_de_passe,gabriel.legrand@bbox.fr,+41071315780,2021-10-13,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Engie,adresse; données_bancaires,gabriel.legrand@bbox.fr,+33064603330,2019-11-20,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; email; téléphone; identité; mot_de_passe,gabriel.legrand@bbox.fr,+33071110813,2022-06-16,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,numéro_sécu; identité,gabriel.richard40@live.fr,+41075153448,2020-07-12,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Carrefour,données_bancaires; téléphone; adresse,gabriel.richard40@live.fr,+213073567003,2021-01-05,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),identité; numéro_sécu; revenus; email,gabriel.richard40@live.fr,+490152159588,2019-03-24,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+AXA,données_bancaires; adresse,gabriel_bonnet@yahoo.fr,+41077437064,2021-10-19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Lidl Plus,adresse; téléphone; identité; données_bancaires,gabriel_bonnet@yahoo.fr,+33064707244,2018-03-07,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Leboncoin,email; adresse; téléphone,gabriel_guérin@numericable.fr,+41078089457,2025-05-21,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Deezer,email; identité; données_bancaires,gabriel_guérin@numericable.fr,+33061977473,2023-03-09,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Société Générale,identité; téléphone; adresse,gabriel_guérin@numericable.fr,+41072729410,2023-10-03,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,email; identité; téléphone,gabriel_lambert5@outlook.fr,+490172368731,2021-01-10,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Dailymotion,email; mot_de_passe,gabriel_lambert5@outlook.fr,+33074013246,2023-03-04,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; mot_de_passe,gabriel_lambert5@outlook.fr,+16475947287,2023-05-31,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Doctolib,données_médicales; email; téléphone; identité; numéro_sécu,gabriel_lambert5@outlook.fr,+33074229065,2018-06-17,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Uber Eats,téléphone; email; adresse,gabrielgauthier@protonmail.com,+33078536347,2025-03-20,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; téléphone; données_médicales,gabrielgauthier@protonmail.com,+33060022793,2023-06-27,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Bpifrance,email; revenus,gabrielgauthier@protonmail.com,+21651230225,2021-05-27,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Darty,mot_de_passe; email,gabrielgauthier@protonmail.com,+33068725837,2023-11-08,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Sephora,identité; téléphone; email; mot_de_passe; données_bancaires,gabrielgauthier@protonmail.com,+213059884583,2022-01-19,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,mot_de_passe; identité,gabrielgauthier@protonmail.com,+33075213844,2018-02-09,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,téléphone; données_bancaires; email; adresse,gabrielgauthier@protonmail.com,+490166726567,2019-02-16,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Boulanger,email; données_bancaires; identité; mot_de_passe,gabrielgauthier@protonmail.com,+213059730623,2024-04-28,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Carrefour,données_bancaires; adresse; mot_de_passe; email; téléphone,gabriellopez71@hotmail.fr,+33066031441,2018-06-04,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),email; numéro_sécu; adresse; revenus; identité,gabrielmathieu@laposte.net,+352067772183,2019-03-18,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+Société Générale,email; données_bancaires; téléphone; identité; IBAN,gabrielmathieu@laposte.net,+33068639787,2024-08-27,0,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0
+Drivy / Getaround,mot_de_passe; identité; données_bancaires; email,gabrielmathieu@laposte.net,+34755469248,2019-05-13,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,identité; données_bancaires,gabrielmathieu@laposte.net,+41074511467,2021-08-18,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,email; mot_de_passe; adresse,gabrielmathieu@laposte.net,+352066302307,2024-01-13,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Nespresso,identité; adresse; données_bancaires; email; mot_de_passe,hugo.garnier@outlook.fr,+21695623305,2018-04-02,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,adresse; identité; données_bancaires; email,hugo.robert@sfr.fr,+33067515024,2018-03-17,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,email; téléphone; données_bancaires; identité,hugo.robert@sfr.fr,+32049758416,2020-04-18,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,mot_de_passe; données_bancaires; téléphone; adresse,hugo.robert@sfr.fr,+33079567273,2019-04-06,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,identité; téléphone; données_bancaires; email,hugo.robert@sfr.fr,+33077844874,2023-07-22,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+LinkedIn,email; identité; téléphone,hugo.robert@sfr.fr,+352067553263,2022-03-14,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Carrefour,adresse; téléphone; mot_de_passe,hugo.robert@sfr.fr,+33076423994,2018-07-31,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,email; mot_de_passe,hugo.robert@sfr.fr,+41072015141,2019-01-25,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+La Banque Postale,email; adresse; identité; données_bancaires; IBAN,hugo_thomas@protonmail.com,+33071823002,2021-11-03,1,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Airbnb FR,identité; téléphone; mot_de_passe; données_bancaires; email,hugoblanc@live.fr,+33071161597,2021-04-19,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),numéro_sécu; identité; données_fiscales,hugoblanc@live.fr,+34713365020,2020-02-01,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+La Banque Postale,adresse; données_bancaires,hugoblanc@live.fr,+33064767891,2021-10-24,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),numéro_sécu; adresse; email; données_fiscales,hugoblanc@live.fr,+352069277352,2024-10-21,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0
+Bpifrance,email; numéro_sécu; revenus; données_bancaires,hugoblanc@live.fr,+33074538966,2022-12-07,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+Darty,mot_de_passe; adresse; données_bancaires; email; identité,hugogauthier@protonmail.com,+490151490443,2020-07-31,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Engie,données_bancaires; adresse; email; identité,hugonicolas@protonmail.com,+32049398335,2024-11-09,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Deezer,identité; email,hugonicolas@protonmail.com,+213051658340,2018-07-16,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,mot_de_passe; téléphone; identité,hugonicolas@protonmail.com,+33063629532,2024-07-23,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Blablacar,téléphone; email; identité,ines.henry@live.fr,+33064883549,2018-03-16,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,email; téléphone; adresse,ines.henry@live.fr,+14385576861,2020-07-23,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; données_médicales,ines.henry@live.fr,+16471663521,2022-03-14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; mot_de_passe; téléphone; identité,ines.henry@live.fr,+21659153154,2018-11-23,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,téléphone; identité; données_médicales,ines.petit42@orange.fr,+33067256892,2019-07-06,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+CAF,email; téléphone,ines.petit42@orange.fr,+213062043949,2023-05-01,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Basic Fit,email; téléphone,ines.petit42@orange.fr,+490153903234,2021-06-30,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,adresse; email,ines.petit42@orange.fr,+212068864607,2025-03-28,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Veolia,téléphone; données_bancaires; identité; email,ines.petit42@orange.fr,+352060471432,2020-09-14,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Veolia,adresse; données_bancaires,ines_legrand72@orange.fr,+33065970532,2018-12-04,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Sephora,identité; données_bancaires; email; mot_de_passe; téléphone,ines_legrand72@orange.fr,+212072221314,2021-10-02,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+MMA Assurances,données_médicales; identité; numéro_sécu,ines_legrand72@orange.fr,+32048553144,2022-01-23,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+MMA Assurances,données_bancaires; numéro_sécu; email,ineslefebvre15@numericable.fr,+212060126341,2024-05-29,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Carrefour,mot_de_passe; données_bancaires; identité; téléphone,ineslefebvre15@numericable.fr,+32049515550,2022-11-18,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; IBAN; email,ineslefebvre15@numericable.fr,+33066401332,2018-12-31,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Crédit Agricole,IBAN; adresse; identité; email; numéro_sécu,ineslefebvre15@numericable.fr,+33070328538,2023-12-14,1,0,0,0,1,1,0,1,0,0,0,1,0,0,0,0
+MyBriquet / Veepee,email; adresse,inesrichard@hotmail.fr,+32048512889,2020-10-19,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,email; mot_de_passe; identité,inesrichard@hotmail.fr,+352068937255,2024-03-09,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Sephora,données_bancaires; téléphone; adresse,inesrichard@hotmail.fr,+34756068567,2019-01-12,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,email; numéro_sécu; données_médicales; adresse,jade.lefebvre88@wanadoo.fr,+213070042744,2025-04-04,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Deezer,email; mot_de_passe,jade.lefebvre88@wanadoo.fr,+33065035573,2021-10-07,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Vinted,mot_de_passe; identité; email; téléphone,jade.lefebvre88@wanadoo.fr,+34782314902,2022-01-21,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,données_bancaires; adresse; mot_de_passe; email; historique_achats,jaderousseau@bbox.fr,+14388679729,2019-04-08,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+Bpifrance,revenus; identité; email,jaderousseau@bbox.fr,+440729449303,2020-05-13,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
+Free,adresse; mot_de_passe; téléphone,jaderousseau@bbox.fr,+33078441770,2019-01-16,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Deliveroo,mot_de_passe; adresse; téléphone; email; données_bancaires,jaderousseau@bbox.fr,+440793077833,2023-08-06,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,email; adresse,jaderousseau@bbox.fr,+41075686221,2024-02-05,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Deliveroo,mot_de_passe; email; adresse; données_bancaires,julie-chevalier@protonmail.com,+33074149621,2023-03-14,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,identité; téléphone; adresse; numéro_sécu,julie-chevalier@protonmail.com,+33071682017,2025-01-21,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Yves Rocher,email; identité; adresse,julie-chevalier@protonmail.com,+212065592296,2019-03-18,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,téléphone; email; adresse; identité,julie-chevalier@protonmail.com,+16479648641,2025-03-27,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MAIF,identité; email; données_bancaires; téléphone,julie-chevalier@protonmail.com,+212070595483,2022-10-19,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,identité; mot_de_passe; données_bancaires; email,julie.bernard26@icloud.com,+32048345165,2022-09-11,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+La Banque Postale,données_bancaires; téléphone; email; adresse,julie_faure2@protonmail.com,+33075861830,2021-07-09,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,téléphone; identité; numéro_sécu,julie_faure2@protonmail.com,+32048453074,2019-05-07,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+Pôle Emploi,revenus; email; CV; identité; numéro_sécu,julie_faure2@protonmail.com,+352066864981,2022-02-21,0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,0
+Intermarché,identité; email; adresse; mot_de_passe; téléphone,julie_faure2@protonmail.com,+16470426942,2019-11-11,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Sephora,téléphone; mot_de_passe; identité,julie_faure2@protonmail.com,+212062466361,2023-08-17,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,adresse; téléphone; IBAN; données_bancaires; identité,julie_faure2@protonmail.com,+352068791243,2020-01-09,1,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0
+Impôts (DGFiP),numéro_sécu; identité; revenus; données_fiscales; adresse,julie_faure2@protonmail.com,+33078878307,2024-05-31,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+Société Générale,adresse; IBAN; téléphone; identité,julie_faure2@protonmail.com,+21625409350,2022-06-27,1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0
+Bpifrance,données_bancaires; identité; numéro_sécu; revenus,julie_françois76@numericable.fr,+33060149655,2021-06-03,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+Orange,email; téléphone; adresse; données_bancaires,julie_françois76@numericable.fr,+33072708521,2019-11-21,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; données_bancaires; email; mot_de_passe; historique_achats,julie_françois76@numericable.fr,+33074659321,2019-04-24,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+MyBriquet / Veepee,identité; mot_de_passe; données_bancaires,julie_françois76@numericable.fr,+212061527745,2023-05-14,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,mot_de_passe; adresse; données_bancaires,julie_françois76@numericable.fr,+33067198357,2024-04-05,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; adresse; identité; mot_de_passe,julie_martinez40@yahoo.fr,+16470439803,2021-07-19,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,adresse; téléphone,julie_martinez40@yahoo.fr,+490166201539,2024-01-13,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Just Eat,données_bancaires; adresse; téléphone; mot_de_passe; email,julie_martinez40@yahoo.fr,+33073423694,2022-04-16,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,identité; téléphone; mot_de_passe; email,julielambert43@sfr.fr,+33069772433,2024-09-04,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),email; numéro_sécu; revenus; identité; adresse,julielambert43@sfr.fr,+213078111574,2025-05-26,1,0,0,0,1,1,0,1,0,1,0,0,0,0,0,0
+Lidl Plus,adresse; téléphone,julielambert43@sfr.fr,+33066866024,2022-12-10,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; mot_de_passe; email,julielambert43@sfr.fr,+33065522224,2019-09-09,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Blablacar,téléphone; mot_de_passe; email,julielambert43@sfr.fr,+33078190815,2023-07-05,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Pôle Emploi,email; revenus; adresse,julielambert43@sfr.fr,+33073510262,2018-06-29,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Airbnb FR,email; mot_de_passe; identité; données_bancaires; téléphone,julielambert43@sfr.fr,+352069178384,2024-05-25,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+LinkedIn,identité; email; téléphone,julien-perrin88@bbox.fr,+212073453632,2020-06-27,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,email; données_bancaires; identité,julien-perrin88@bbox.fr,+33062904819,2025-02-07,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Boursorama,email; IBAN; données_bancaires,julien.girard@free.fr,+213054084288,2024-12-01,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Ameli / CPAM,téléphone; identité; email; adresse,julien.girard@free.fr,+15149893504,2019-09-01,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,mot_de_passe; identité; adresse; email,julien.girard@free.fr,+33079989089,2018-03-17,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Veolia,identité; téléphone; adresse; email; données_bancaires,julien.girard@free.fr,+213069748752,2018-06-01,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,identité; email,julien.girard@free.fr,+14165174538,2024-03-09,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),adresse; données_fiscales; revenus; numéro_sécu; identité,julien.girard@free.fr,+490155832304,2018-10-11,1,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0
+LinkedIn,email; identité; mot_de_passe,julien.girard@free.fr,+16473078138,2024-10-25,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,données_bancaires; identité; adresse,julien.girard@free.fr,+33075329847,2023-06-21,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Veolia,identité; adresse; email; téléphone,julien.girard@free.fr,+41078445522,2024-07-14,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon FR,données_bancaires; email; mot_de_passe,julien_muller81@sfr.fr,+16478227722,2023-11-14,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Fnac,données_bancaires; email; téléphone,julien_muller81@sfr.fr,+33066356572,2022-12-05,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,email; adresse; identité; mot_de_passe; données_bancaires,julien_muller81@sfr.fr,+33071033361,2019-01-05,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,mot_de_passe; données_bancaires; identité,julien_muller81@sfr.fr,+33064243625,2022-04-22,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Fnac,téléphone; données_bancaires,juliesimon36@orange.fr,+33069541881,2023-10-23,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Intermarché,adresse; identité; téléphone; mot_de_passe,laura-martin@gmail.com,+32045886241,2022-01-27,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; données_bancaires,laura-martin@gmail.com,+33079198397,2022-02-23,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; email; identité,laura-martin@gmail.com,+32049675396,2024-01-03,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Boursorama,email; identité; données_bancaires,laura-martin@gmail.com,+33067175253,2018-01-23,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Engie,adresse; email,laura.andré@icloud.com,+34735615858,2023-07-07,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+SFR,email; données_bancaires; téléphone; mot_de_passe; identité,laura.andré@icloud.com,+213054063655,2024-03-19,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,téléphone; adresse; email; données_bancaires,laura.andré@icloud.com,+41075754227,2024-02-13,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,téléphone; email; adresse; données_bancaires; identité,laura.laurent@hotmail.fr,+32048872501,2020-03-28,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; identité; email; mot_de_passe; téléphone,laura.laurent@hotmail.fr,+212065948999,2023-12-13,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Pôle Emploi,revenus; numéro_sécu; identité; adresse,laura.laurent@hotmail.fr,+213054681749,2022-05-17,1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+Fnac,téléphone; identité; adresse,laura_morin@wanadoo.fr,+213061814568,2025-02-10,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Darty,identité; email; données_bancaires; adresse; mot_de_passe,laura_morin@wanadoo.fr,+33075154257,2019-01-05,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,mot_de_passe; email,laura_morin@wanadoo.fr,+32048539080,2022-06-08,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,email; téléphone; mot_de_passe,laura_morin@wanadoo.fr,+490154531772,2022-09-09,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Blablacar,téléphone; mot_de_passe; email; identité,laura_morin@wanadoo.fr,+33067438502,2023-11-29,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Leetchi,email; identité; données_bancaires,laura_morin@wanadoo.fr,+32049055851,2018-08-02,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Just Eat,mot_de_passe; adresse; email; téléphone; données_bancaires,laura_morin@wanadoo.fr,+33072925058,2020-09-02,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Cdiscount,identité; adresse; mot_de_passe; téléphone; email,lauralambert@bbox.fr,+21690141428,2023-10-30,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Engie,email; identité; données_bancaires; adresse; téléphone,lauralambert@bbox.fr,+490175777554,2024-09-19,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Nocibé,identité; adresse; mot_de_passe,lauralambert@bbox.fr,+33074886169,2024-05-25,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+EDF,numéro_contrat; données_bancaires; email; téléphone; identité,lauralefèvre@icloud.com,+212075001960,2020-11-22,0,0,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+Nespresso,identité; email; données_bancaires; mot_de_passe; adresse,lauralefèvre@icloud.com,+33074131276,2019-09-29,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Pôle Emploi,CV; identité; numéro_sécu; email,lauralefèvre@icloud.com,+32049464465,2019-04-30,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+Twitter/X,identité; mot_de_passe,lauralefèvre@icloud.com,+33074368813,2021-02-10,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+MSA,données_médicales; email; numéro_sécu,lauralefèvre@icloud.com,+213064419140,2019-12-23,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+RATP,téléphone; identité; email,lea-dubois94@gmail.com,+33068576443,2018-08-02,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Facebook,identité; email; téléphone,lea-girard82@hotmail.fr,+21653806726,2023-08-18,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,identité; téléphone; adresse; données_bancaires,lea-girard82@hotmail.fr,+440763325259,2023-03-05,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Free,email; mot_de_passe; données_bancaires; téléphone; identité,lea-girard82@hotmail.fr,+33073428064,2024-09-07,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,identité; données_bancaires; adresse; email; mot_de_passe,lea-guérin53@laposte.net,+213054460275,2020-01-29,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; identité,lea-guérin53@laposte.net,+213078056579,2020-02-02,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+AXA,données_bancaires; email; adresse,lea-guérin53@laposte.net,+440721479508,2023-05-02,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Blablacar,email; identité; téléphone,lea-guérin53@laposte.net,+440705831392,2021-03-14,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+AXA,numéro_sécu; adresse; identité; email,lea-leroy43@laposte.net,+490152683915,2021-07-24,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Airbnb FR,mot_de_passe; email; données_bancaires; identité; téléphone,lea-leroy43@laposte.net,+352062266224,2025-05-24,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+AXA,adresse; identité; données_médicales,lea.dubois@laposte.net,+212063557611,2023-06-04,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Voyages-sncf,données_bancaires; adresse,lea.dubois@laposte.net,+15143924631,2021-04-01,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; données_bancaires; email,lea.dubois@laposte.net,+32048253076,2023-12-26,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Orange,données_bancaires; mot_de_passe; téléphone; email; adresse,lea.dubois@laposte.net,+33060518339,2019-11-30,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; email; mot_de_passe; téléphone,lea.dubois@laposte.net,+33073120294,2022-10-25,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Nocibé,téléphone; identité; mot_de_passe; adresse; email,lea.martinez@wanadoo.fr,+34757944877,2022-10-09,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+SFR,mot_de_passe; email; identité; données_bancaires,lea.martinez@wanadoo.fr,+212073784434,2024-09-30,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,données_bancaires; mot_de_passe,lea.martinez@wanadoo.fr,+352065845435,2021-05-12,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Fnac,identité; données_bancaires; téléphone,lea.martinez@wanadoo.fr,+33062221482,2023-12-22,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Vinted,mot_de_passe; email; identité,lea.martinez@wanadoo.fr,+33069752260,2024-10-30,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Boulanger,identité; email; mot_de_passe,lea_andré97@protonmail.com,+41070965055,2018-09-19,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,mot_de_passe; données_bancaires; email; adresse; identité,lea_andré97@protonmail.com,+212066091852,2023-02-10,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Veolia,adresse; téléphone; email; données_bancaires; identité,lea_andré97@protonmail.com,+33076346363,2023-11-13,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+RATP,identité; téléphone; email; données_bancaires,lea_andré97@protonmail.com,+352068811009,2023-12-29,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; téléphone; mot_de_passe; email; données_bancaires,lea_andré97@protonmail.com,+33078851469,2022-10-03,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Darty,email; identité,lea_andré97@protonmail.com,+33075320151,2019-09-06,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+RATP,email; données_bancaires,lea_andré97@protonmail.com,+490164273911,2019-10-04,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; identité,lea_andré97@protonmail.com,+32049561262,2021-02-11,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,identité; données_bancaires; IBAN,louis-bonnet@protonmail.com,+33079779262,2024-02-27,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Pôle Emploi,email; revenus; CV; adresse,louis-bonnet@protonmail.com,+32048718892,2022-05-01,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+BNP Paribas,téléphone; identité,louis-garnier82@outlook.fr,+33073628608,2022-03-22,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Société Générale,identité; données_bancaires; adresse,louis-garnier82@outlook.fr,+213066315739,2022-11-28,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; données_bancaires,louis-garnier82@outlook.fr,+440799342278,2019-02-15,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+MSA,email; adresse,louis.lopez88@icloud.com,+440764343804,2024-08-13,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Paylib,données_bancaires; identité; email,louis.lopez88@icloud.com,+33067842720,2025-05-20,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+CAF,numéro_sécu; identité; adresse; données_bancaires; email,louis.lopez88@icloud.com,+33064681903,2022-07-18,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,email; données_bancaires; adresse; mot_de_passe; téléphone,louisdavid@outlook.fr,+33079369996,2018-11-24,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Pôle Emploi,CV; email; numéro_sécu; identité,louisdavid@outlook.fr,+33073210559,2020-01-14,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0
+Yves Rocher,adresse; identité,louisdavid@outlook.fr,+34650758901,2022-08-12,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,numéro_contrat; identité,louisdavid@outlook.fr,+212065589737,2018-10-13,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+Carrefour,adresse; identité; email,louisdavid@outlook.fr,+33062134949,2024-09-28,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+EDF,email; numéro_contrat; adresse; données_bancaires,louisdavid@outlook.fr,+490175053119,2018-02-14,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+Boulanger,identité; données_bancaires; email,lucas-chevalier@laposte.net,+34743594729,2024-03-25,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Deezer,email; identité; données_bancaires,lucas-chevalier@laposte.net,+213062925006,2022-02-18,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; identité; données_bancaires,lucas-chevalier@laposte.net,+33062646009,2020-04-07,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+SFR,téléphone; identité; données_bancaires; email,lucas-chevalier@laposte.net,+41072217064,2020-04-29,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Veolia,email; adresse,lucas-chevalier@laposte.net,+213074503363,2018-04-29,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,numéro_sécu; identité,lucas-henry97@yahoo.fr,+213063155310,2023-07-11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Pôle Emploi,adresse; téléphone; numéro_sécu; revenus,lucas-henry97@yahoo.fr,+32049045732,2025-01-16,1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Orange,adresse; mot_de_passe,lucas.michel73@wanadoo.fr,+352060774404,2021-04-01,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; email; identité,lucas.michel73@wanadoo.fr,+14389432214,2021-12-27,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+Nespresso,données_bancaires; mot_de_passe; email; adresse,lucasfaure@bbox.fr,+41071325984,2018-09-11,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Carrefour,adresse; email; mot_de_passe; données_bancaires,lucasfaure@bbox.fr,+440724057536,2019-07-02,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; email; données_bancaires; identité,lucie-michel85@outlook.fr,+213070254853,2024-09-09,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Voyages-sncf,mot_de_passe; données_bancaires,lucie-michel85@outlook.fr,+21622863985,2024-02-06,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,identité; téléphone,lucie-michel85@outlook.fr,+440765560575,2020-01-31,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,données_bancaires; adresse; téléphone; mot_de_passe,lucie-michel85@outlook.fr,+21655289863,2023-11-03,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+EDF,adresse; numéro_contrat; données_bancaires; téléphone; identité,lucie-michel85@outlook.fr,+14383600468,2022-08-23,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+SNCF / OUI.sncf,données_bancaires; mot_de_passe; adresse,lucie-michel85@outlook.fr,+490178394535,2023-04-10,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; email; adresse; identité; numéro_sécu,lucie-michel85@outlook.fr,+490150632479,2023-08-26,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Facebook,données_localisation; email; identité,lucie.clément18@gmail.com,+34732609426,2025-03-30,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Free,mot_de_passe; données_bancaires,lucie.clément18@gmail.com,+41071800086,2021-12-10,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Société Générale,IBAN; email,lucie.clément18@gmail.com,+440763247750,2020-10-11,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+MyBriquet / Veepee,adresse; identité,lucie.clément18@gmail.com,+33065107567,2020-12-29,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,identité; email; téléphone; mot_de_passe,lucie.clément18@gmail.com,+212067598157,2019-10-01,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,téléphone; adresse; identité; données_bancaires,lucie.clément18@gmail.com,+33072432604,2019-12-22,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Blablacar,téléphone; email,lucie.guérin@laposte.net,+34751090522,2021-11-24,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Lidl Plus,données_bancaires; email; identité; téléphone,lucie.guérin@laposte.net,+33062723866,2024-05-17,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; adresse; numéro_sécu,lucie_lefebvre@outlook.fr,+41074179777,2018-08-11,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+BNP Paribas,email; IBAN; téléphone; identité; adresse,lucie_lefebvre@outlook.fr,+34763068153,2022-11-19,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+Carrefour,email; adresse; téléphone,lucie_lefebvre@outlook.fr,+14163511991,2023-05-03,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,CV; revenus; adresse,lucie_lefebvre@outlook.fr,+33071204189,2022-08-02,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+Deezer,mot_de_passe; identité; email,lucie_lefebvre@outlook.fr,+16479142274,2023-01-15,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Doctolib,email; données_médicales; identité; téléphone,lucie_lefebvre@outlook.fr,+32048967571,2024-02-14,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Facebook,email; téléphone,manon-morin@sfr.fr,+212071868074,2023-11-17,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,identité; email,manon-morin@sfr.fr,+33064475477,2025-05-12,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon FR,historique_achats; mot_de_passe; email,manon-morin@sfr.fr,+440773907510,2021-03-28,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Bpifrance,identité; données_bancaires; revenus; email; numéro_sécu,manon-morin@sfr.fr,+33063135836,2020-10-12,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+Deliveroo,email; téléphone,manon-morin@sfr.fr,+352065963827,2019-09-17,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; adresse; email; mot_de_passe,manon-morin@sfr.fr,+33074408949,2022-03-06,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,téléphone; adresse; numéro_sécu,manon-morin@sfr.fr,+33073260862,2024-09-30,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0
+Darty,email; adresse; identité; mot_de_passe,manon-morin@sfr.fr,+33078829719,2018-10-26,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Fnac,téléphone; identité; adresse; email; données_bancaires,manon-morin@sfr.fr,+352061521946,2020-02-09,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; email; données_bancaires; historique_achats; mot_de_passe,manon-morin@sfr.fr,+34741491374,2022-01-28,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+Société Générale,IBAN; adresse; téléphone,manon-morin@sfr.fr,+33078545510,2022-06-23,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0
+LinkedIn,email; mot_de_passe; téléphone,manon-morin@sfr.fr,+490179736873,2022-08-14,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; identité; données_bancaires; mot_de_passe; email,manon_lefèvre10@wanadoo.fr,+213061530342,2022-02-25,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Twitter/X,identité; mot_de_passe; email,manon_lefèvre10@wanadoo.fr,+33062833793,2021-01-21,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Orange,identité; téléphone; mot_de_passe,manon_lefèvre10@wanadoo.fr,+33071187311,2023-11-03,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Twitter/X,email; identité,margot-guérin@laposte.net,+352066390388,2025-01-22,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,téléphone; mot_de_passe; identité; données_bancaires; email,margot-guérin@laposte.net,+33074929031,2024-11-16,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Cdiscount,adresse; identité,margot-guérin@laposte.net,+212074893172,2019-08-30,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Doctolib,numéro_sécu; email; données_médicales; identité,margot-guérin@laposte.net,+213075551228,2019-07-24,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Vinted,téléphone; identité,margot-guérin@laposte.net,+33064728018,2022-08-12,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,email; données_bancaires; adresse; téléphone; numéro_contrat,margot-henry49@live.fr,+440757978250,2019-11-18,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+Doctolib,identité; données_médicales; email; numéro_sécu,margot-henry49@live.fr,+16473980173,2019-07-08,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Doctolib,données_médicales; identité; numéro_sécu; email; téléphone,margot-morin7@numericable.fr,+33063192547,2018-11-25,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+RATP,email; téléphone; identité,margot-morin7@numericable.fr,+33064588130,2023-05-18,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Nocibé,mot_de_passe; identité; email,margot-morin7@numericable.fr,+440791738696,2021-11-26,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Free,identité; téléphone; email; adresse,margot.bernard83@hotmail.fr,+440757766496,2022-05-16,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,email; identité; adresse; mot_de_passe,margot.bernard83@hotmail.fr,+21698826548,2022-06-14,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,mot_de_passe; données_bancaires; identité; email,margot.bernard83@hotmail.fr,+34763439109,2020-11-19,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; historique_achats; email; mot_de_passe; données_bancaires,margot.bernard83@hotmail.fr,+41079032181,2022-03-05,1,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+Nespresso,mot_de_passe; identité; adresse; email; données_bancaires,margot.bernard83@hotmail.fr,+41077495416,2020-09-29,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; mot_de_passe; téléphone,margot.bernard83@hotmail.fr,+34721820753,2020-03-27,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,mot_de_passe; téléphone; identité; adresse; email,margot.mercier99@icloud.com,+34773613676,2019-12-01,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Basic Fit,identité; mot_de_passe; adresse; email; téléphone,margot.mercier99@icloud.com,+41073700889,2018-04-28,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,revenus; numéro_sécu,margot.mercier99@icloud.com,+33078489142,2024-03-22,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+Lidl Plus,données_bancaires; téléphone; adresse,margot.roux@wanadoo.fr,+32049096013,2019-07-29,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+SFR,téléphone; données_bancaires,margot.roux@wanadoo.fr,+33069057198,2025-05-18,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Just Eat,données_bancaires; mot_de_passe; adresse; email; téléphone,margot.roux@wanadoo.fr,+33076889686,2025-04-20,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; données_bancaires,margot.roux@wanadoo.fr,+21659607629,2023-03-17,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+MAIF,données_bancaires; adresse,margot.roux@wanadoo.fr,+33062937947,2021-11-21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Orange,identité; téléphone; mot_de_passe; email,margot_garcia@protonmail.com,+33070461417,2021-08-07,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Nespresso,identité; mot_de_passe; adresse,margot_garcia@protonmail.com,+352066532766,2024-01-14,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; mot_de_passe; identité,margot_garcia@protonmail.com,+21695252540,2024-05-13,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,adresse; données_bancaires,margot_garcia@protonmail.com,+21654546532,2025-02-25,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Darty,mot_de_passe; identité; email,margot_garcia@protonmail.com,+14161759150,2020-03-12,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,IBAN; email; identité,margot_perrin@numericable.fr,+33067370086,2022-08-17,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0
+Doctolib,numéro_sécu; données_médicales; email; identité,margot_perrin@numericable.fr,+490165694175,2021-09-27,0,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Leetchi,identité; mot_de_passe; données_bancaires; email,margot_perrin@numericable.fr,+33065884762,2020-11-22,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; données_bancaires; email; mot_de_passe,margot_perrin@numericable.fr,+32042163935,2018-11-11,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Dailymotion,identité; email,margot_perrin@numericable.fr,+21699181628,2025-02-23,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Orange,données_bancaires; adresse; téléphone; email; identité,margot_perrin@numericable.fr,+212070782858,2019-06-07,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+CAF,email; numéro_sécu; identité,margot_perrin@numericable.fr,+32048374214,2019-02-01,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Leetchi,email; données_bancaires; mot_de_passe,margotclément@gmail.com,+21629059555,2021-11-09,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,données_bancaires; identité; téléphone,margotclément@gmail.com,+34748350314,2019-04-06,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+RATP,téléphone; données_bancaires,margotclément@gmail.com,+33069741557,2020-08-25,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Facebook,téléphone; données_localisation,margotclément@gmail.com,+352065837790,2023-07-05,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+Engie,adresse; email; téléphone; identité,margotlefebvre@numericable.fr,+352064841818,2018-12-22,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,email; identité; données_bancaires,margotlefebvre@numericable.fr,+33064182677,2021-06-30,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; numéro_sécu; identité; IBAN,margotlefebvre@numericable.fr,+33077024850,2022-12-24,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0
+Blablacar,identité; téléphone; mot_de_passe; email,margotlefebvre@numericable.fr,+21658117735,2019-10-23,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+MAIF,adresse; données_bancaires; email; téléphone; identité,margotlefebvre@numericable.fr,+490165371626,2023-06-05,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Intermarché,adresse; email; identité,marie-nicolas@numericable.fr,+16479898042,2019-11-17,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,téléphone; email; mot_de_passe; adresse,marie-nicolas@numericable.fr,+14163821091,2022-10-12,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Free,téléphone; email; mot_de_passe; identité; adresse,marie-nicolas@numericable.fr,+33068031953,2022-10-16,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Boursorama,email; mot_de_passe; IBAN; identité; données_bancaires,marie.gauthier@sfr.fr,+21696193734,2024-04-21,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0
+AXA,email; adresse,marie.gauthier@sfr.fr,+41076423478,2019-04-21,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Facebook,identité; données_localisation; email; téléphone,marie.gauthier@sfr.fr,+21656981510,2022-10-31,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
+Vinted,mot_de_passe; identité,marie.gauthier@sfr.fr,+352064465783,2019-11-21,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Leetchi,identité; données_bancaires,marie.gauthier@sfr.fr,+212069307969,2024-06-19,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,IBAN; email; téléphone,marie.gauthier@sfr.fr,+16477833254,2023-06-16,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0
+Sephora,email; téléphone; adresse,marie.leroy@protonmail.com,+212066257161,2024-09-10,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Just Eat,téléphone; adresse; email; mot_de_passe; données_bancaires,marie.leroy@protonmail.com,+212078690307,2025-02-26,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+SFR,données_bancaires; email; mot_de_passe,marie.roussel@outlook.fr,+33074166719,2024-03-27,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,identité; données_bancaires; téléphone; email; permis_conduire,mathieu-clément44@free.fr,+33070087031,2024-10-12,0,0,1,1,1,1,0,0,0,0,0,0,0,0,1,0
+Boursorama,email; IBAN; données_bancaires,mathieu-clément44@free.fr,+33071798157,2019-07-19,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Vinted,mot_de_passe; données_bancaires; téléphone,mathieu-clément44@free.fr,+34754195526,2024-01-27,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+MSA,revenus; données_médicales; numéro_sécu; email,mathieu_durand31@yahoo.fr,+34728167594,2020-10-14,0,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Doctolib,données_médicales; identité,mathieu_durand31@yahoo.fr,+490150465217,2021-07-04,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Carrefour,email; adresse; mot_de_passe,mathieu_durand31@yahoo.fr,+212073893034,2022-03-28,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; identité,mathieu_fontaine78@gmail.com,+14388404274,2024-03-29,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,numéro_contrat; identité; email,mathieu_fontaine78@gmail.com,+34716514891,2025-02-09,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+Pôle Emploi,revenus; téléphone; identité,mathieu_fontaine78@gmail.com,+212077682830,2020-08-26,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0
+Ameli / CPAM,données_médicales; email; numéro_sécu,mathieu_fontaine78@gmail.com,+213050323512,2018-11-03,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; email; données_médicales,mathieu_morel@numericable.fr,+440746832666,2019-02-09,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Blablacar,téléphone; email; identité; mot_de_passe,mathieu_morel@numericable.fr,+212065567255,2023-07-13,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,email; identité; données_bancaires; adresse,mathieu_morel@numericable.fr,+34786916657,2025-05-31,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,identité; données_bancaires; IBAN; email,mathieu_morel@numericable.fr,+440707659588,2024-05-18,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Leboncoin,téléphone; adresse; mot_de_passe; identité,mathieugauthier@orange.fr,+33078650168,2022-12-30,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Basic Fit,téléphone; données_bancaires,mathieugauthier@orange.fr,+212072936421,2023-02-11,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,adresse; email; données_médicales,mathieugauthier@orange.fr,+32049545325,2022-05-06,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MAIF,données_bancaires; adresse; email; identité; téléphone,mathieugauthier@orange.fr,+490151179448,2019-04-15,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Fnac,email; données_bancaires; adresse,mathieugauthier@orange.fr,+33060319825,2024-01-11,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,revenus; numéro_sécu; téléphone,mathieugauthier@orange.fr,+34775579907,2018-02-11,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Just Eat,mot_de_passe; adresse; téléphone; données_bancaires; email,mathieulopez@sfr.fr,+33073161753,2021-03-30,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Basic Fit,mot_de_passe; données_bancaires; téléphone; adresse,mathieulopez@sfr.fr,+34616866689,2022-04-20,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+RATP,données_bancaires; email,mathieulopez@sfr.fr,+34632901201,2022-11-03,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,mot_de_passe; adresse,maxime-martinez@bbox.fr,+32044366526,2018-02-20,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,mot_de_passe; adresse; données_bancaires,maxime-martinez@bbox.fr,+33077713757,2023-01-14,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+CAF,identité; téléphone; revenus; numéro_sécu,maxime-martinez@bbox.fr,+34721489893,2020-10-20,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+Cdiscount,mot_de_passe; données_bancaires,maxime-martinez@bbox.fr,+33065643371,2018-01-14,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Doctolib,identité; données_médicales,maxime-mathieu@icloud.com,+32048480081,2024-09-11,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+RATP,identité; email,maxime-mathieu@icloud.com,+41072513428,2024-08-26,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+RATP,téléphone; email,maxime-mathieu@icloud.com,+33068622011,2019-06-17,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Bpifrance,données_bancaires; email; numéro_sécu,maxime-mathieu@icloud.com,+352063401593,2019-08-02,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Lidl Plus,adresse; données_bancaires; identité; téléphone; email,maxime-mathieu@icloud.com,+33062028208,2019-01-12,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+RATP,données_bancaires; email; téléphone,maxime-mathieu@icloud.com,+16479389234,2018-10-12,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Carrefour,adresse; email; téléphone; données_bancaires; identité,maxime.lopez99@hotmail.fr,+33069419399,2022-06-10,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Intermarché,mot_de_passe; email; adresse; identité,maxime.lopez99@hotmail.fr,+33060019835,2021-06-02,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Doctolib,téléphone; identité; données_médicales,maxime.lopez99@hotmail.fr,+41071933585,2021-07-23,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,données_bancaires; email; mot_de_passe; identité; téléphone,maxime.lopez99@hotmail.fr,+41072225609,2018-01-30,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,numéro_sécu; identité; données_bancaires,maxime.martin@yahoo.fr,+33062092419,2022-04-12,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+MSA,email; numéro_sécu; données_médicales,maxime.martin@yahoo.fr,+41070034735,2020-12-14,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Fnac,adresse; téléphone; mot_de_passe; email; données_bancaires,maxime.martin@yahoo.fr,+41077974737,2019-09-12,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+CAF,identité; numéro_sécu; revenus,maxime.martin@yahoo.fr,+34761981929,2022-03-20,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0
+La Banque Postale,IBAN; données_bancaires,maxime_lambert@bbox.fr,+21691993169,2021-03-11,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Crédit Agricole,numéro_sécu; données_bancaires; IBAN; identité,maxime_lambert@bbox.fr,+33079998710,2025-02-23,0,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+Carrefour,adresse; données_bancaires; email,maxime_lambert@bbox.fr,+33063477434,2022-01-12,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Blablacar,email; téléphone; mot_de_passe; identité,maxime_perrin@sfr.fr,+33064001888,2025-04-11,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; email; adresse; téléphone; IBAN,maxime_perrin@sfr.fr,+33069563454,2019-01-01,1,0,1,1,1,0,0,0,0,0,0,1,0,0,0,0
+Deezer,données_bancaires; identité; mot_de_passe; email,maximebonnet@sfr.fr,+33071970168,2023-09-22,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; mot_de_passe; email,maximebonnet@sfr.fr,+33068748563,2020-08-11,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Cdiscount,données_bancaires; téléphone; adresse; identité,maximebonnet@sfr.fr,+212060910433,2019-12-15,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+SFR,adresse; téléphone; identité; données_bancaires; email,maximebonnet@sfr.fr,+490173637417,2023-02-06,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,identité; email; téléphone,maximebonnet@sfr.fr,+32043672554,2018-01-29,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Orange,adresse; email; téléphone,maximebonnet@sfr.fr,+213077179562,2022-06-05,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,identité; téléphone,maximebonnet@sfr.fr,+352061089048,2018-07-11,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,email; données_bancaires,maximebonnet@sfr.fr,+34634521604,2023-07-22,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Twitter/X,téléphone; email,maximelegrand@yahoo.fr,+41075340165,2022-02-03,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+MAIF,données_bancaires; identité; email; téléphone,maximelegrand@yahoo.fr,+21620891703,2025-02-23,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,email; adresse; données_médicales; identité,maximelegrand@yahoo.fr,+34706513778,2018-09-01,1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Vinted,identité; mot_de_passe; données_bancaires; email; téléphone,nathalie-bernard@bbox.fr,+33062170689,2019-10-03,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Pôle Emploi,email; revenus,nathalie-bernard@bbox.fr,+33065613265,2019-10-23,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0
+Decathlon,email; téléphone; identité; adresse; mot_de_passe,nathalie-bernard@bbox.fr,+352062459710,2024-06-23,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+MSA,adresse; données_médicales; numéro_sécu,nathalie-bernard@bbox.fr,+33060801163,2020-01-25,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Boulanger,identité; mot_de_passe; données_bancaires; email; adresse,nathalie-bernard@bbox.fr,+32048261354,2022-08-24,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,téléphone; données_bancaires; email; adresse; identité,nathalie-bernard@bbox.fr,+33072155228,2019-02-18,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; mot_de_passe,nathalie-fontaine@wanadoo.fr,+490155762303,2024-10-20,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+EDF,données_bancaires; identité; email; numéro_contrat,nathalie-fontaine@wanadoo.fr,+33066068161,2025-03-29,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+Ameli / CPAM,email; données_médicales; numéro_sécu,nathalie-fontaine@wanadoo.fr,+33061420859,2020-12-18,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Vinted,email; mot_de_passe; téléphone,nathalie-fontaine@wanadoo.fr,+21653321509,2021-06-02,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; historique_achats; données_bancaires; email,nathalie-fontaine@wanadoo.fr,+32048338790,2018-09-18,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0
+MAIF,données_bancaires; email; identité,nathalie-fontaine@wanadoo.fr,+213053282077,2018-07-15,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Darty,données_bancaires; adresse,nathalie-fontaine@wanadoo.fr,+440787121219,2022-03-04,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Just Eat,données_bancaires; mot_de_passe; téléphone; adresse,nathalie-fontaine@wanadoo.fr,+213075908350,2023-03-05,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Fnac,adresse; email; identité; téléphone,nathalie-robert68@sfr.fr,+33060970148,2020-06-09,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,adresse; téléphone; email,nathalie-robert68@sfr.fr,+33064370137,2025-01-08,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,email; données_bancaires; téléphone,nathalie-robert68@sfr.fr,+34767247425,2022-09-24,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Bpifrance,identité; revenus,nathalie-robert68@sfr.fr,+34738544198,2023-06-02,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+Drivy / Getaround,mot_de_passe; email; permis_conduire,nathalie-robert68@sfr.fr,+34799655522,2025-04-10,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0
+EDF,adresse; téléphone,nathalie-robert68@sfr.fr,+490172845113,2025-01-13,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Orange,email; données_bancaires; mot_de_passe,nathalie-robert68@sfr.fr,+33067816021,2024-06-14,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Vinted,email; mot_de_passe; identité,nathalie.laurent81@protonmail.com,+33075679286,2023-10-30,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,numéro_sécu; téléphone; email,nathalie.laurent81@protonmail.com,+32048209411,2022-05-22,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Impôts (DGFiP),données_fiscales; numéro_sécu,nathalie_roux@orange.fr,+212063303590,2020-09-08,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+CAF,identité; données_bancaires; numéro_sécu,nathalie_roux@orange.fr,+440711229739,2019-02-01,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+AXA,données_bancaires; données_médicales,nathaliedurand45@free.fr,+33069886281,2020-06-26,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leetchi,données_bancaires; email; mot_de_passe,nathaliedurand45@free.fr,+33064343811,2019-11-28,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+EDF,téléphone; données_bancaires; identité; adresse; email,nathaliedurand45@free.fr,+213055585311,2022-03-15,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Orange,téléphone; email; adresse,nathaliedurand45@free.fr,+33069897049,2021-08-17,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Leetchi,email; données_bancaires; identité; mot_de_passe,nathaliedurand45@free.fr,+212068103672,2021-03-01,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+LinkedIn,CV; téléphone; identité; mot_de_passe,nathaliedurand45@free.fr,+32046529872,2019-09-08,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Facebook,identité; téléphone; données_localisation,nathan-lefebvre@free.fr,+41074223529,2022-06-19,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+Vinted,téléphone; mot_de_passe; données_bancaires; identité; email,nathan-lefebvre@free.fr,+21657604125,2023-04-03,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+MSA,adresse; revenus,nathan-lefebvre@free.fr,+33068479048,2020-03-11,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Pôle Emploi,adresse; téléphone,nathan-leroy50@sfr.fr,+352062228565,2021-10-24,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,mot_de_passe; adresse,nathan-leroy50@sfr.fr,+33062586019,2021-08-10,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Nocibé,téléphone; email,nathan-leroy50@sfr.fr,+16472376008,2022-01-29,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; adresse,nathan-leroy50@sfr.fr,+440794181085,2023-07-09,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Basic Fit,email; mot_de_passe; identité; adresse,nathan-leroy50@sfr.fr,+440780637683,2022-08-29,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Vinted,mot_de_passe; téléphone; identité; données_bancaires; email,nathan.bernard47@outlook.fr,+33063286037,2022-12-24,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,email; identité; mot_de_passe; téléphone; adresse,nathan.bernard47@outlook.fr,+34652097556,2024-10-06,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,mot_de_passe; identité; adresse; email; données_bancaires,nathan.bernard47@outlook.fr,+490152621596,2019-02-14,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Carrefour,email; données_bancaires,nathan.bernard47@outlook.fr,+34783178212,2024-09-06,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Boursorama,identité; données_bancaires,nathan.bernard47@outlook.fr,+16474143899,2020-05-11,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Fnac,adresse; identité; téléphone; email,nathan.bernard47@outlook.fr,+41072589769,2019-10-09,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+EDF,adresse; email,nathan.durand@sfr.fr,+33073436256,2022-04-17,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Sephora,identité; mot_de_passe; email; téléphone; adresse,nathan.durand@sfr.fr,+21625707774,2019-07-22,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Nocibé,mot_de_passe; email; téléphone; adresse,nathan.durand@sfr.fr,+212065252373,2024-10-02,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+CAF,identité; données_bancaires; téléphone; revenus; email,nathan.durand@sfr.fr,+352069546370,2023-08-18,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0
+MSA,données_médicales; email; revenus; numéro_sécu; adresse,nathan.perrin@free.fr,+33065544295,2018-02-09,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+MMA Assurances,numéro_sécu; données_bancaires; identité; email,nathan.perrin@free.fr,+33062614179,2023-08-07,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+RATP,données_bancaires; téléphone; email,nathan.perrin@free.fr,+33067955719,2022-02-14,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Boursorama,IBAN; mot_de_passe; données_bancaires; email; identité,nathan.perrin@free.fr,+32049893008,2023-06-15,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0
+Voyages-sncf,adresse; email; données_bancaires,nathan.perrin@free.fr,+33079919889,2022-10-17,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,mot_de_passe; email,nathan.perrin@free.fr,+32049849703,2018-05-12,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Free,téléphone; identité; email; adresse,nathan.perrin@free.fr,+490155967289,2025-01-13,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,données_bancaires; identité,nathan_françois16@live.fr,+33071162548,2023-04-23,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,numéro_contrat; email; téléphone,nathan_françois16@live.fr,+34654874752,2022-01-21,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+Blablacar,email; téléphone; mot_de_passe,nathan_martinez8@protonmail.com,+33068210655,2020-04-04,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; identité,nathan_martinez8@protonmail.com,+212063703184,2020-05-17,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,données_bancaires; identité,nathan_martinez8@protonmail.com,+213078489632,2022-07-16,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,données_médicales; email; téléphone; identité,nathan_martinez8@protonmail.com,+21653932133,2018-02-07,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,adresse; email; téléphone; identité; mot_de_passe,nathan_martinez8@protonmail.com,+490173184773,2025-04-30,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; email; données_bancaires; téléphone; mot_de_passe,nathan_martinez8@protonmail.com,+352067984475,2021-12-19,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Bpifrance,email; revenus; numéro_sécu; données_bancaires,nathanbernard44@live.fr,+34792788829,2018-11-05,0,0,1,0,1,0,0,1,0,1,0,0,0,0,0,0
+Bpifrance,identité; email; données_bancaires; revenus; numéro_sécu,nathanbernard44@live.fr,+33076457367,2025-05-30,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+La Banque Postale,identité; données_bancaires; téléphone,nathanbernard44@live.fr,+41075285664,2019-11-06,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Just Eat,données_bancaires; adresse; mot_de_passe; email; téléphone,nathanbernard44@live.fr,+33069164294,2018-06-29,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Engie,identité; email,nathanbernard44@live.fr,+34617398437,2022-12-29,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Facebook,téléphone; données_localisation; email,nathanbernard44@live.fr,+32048192870,2019-03-03,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Boursorama,IBAN; email; mot_de_passe; identité; données_bancaires,nathanbernard44@live.fr,+33078004209,2020-01-07,0,0,1,0,1,1,1,0,0,0,0,1,0,0,0,0
+Blablacar,email; identité; téléphone,nicolas-bonnet31@orange.fr,+32048732199,2020-09-01,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Leboncoin,email; téléphone; identité,nicolas-bonnet31@orange.fr,+14167337391,2018-09-20,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,données_bancaires; numéro_sécu; email; données_médicales; adresse,nicolas-bonnet31@orange.fr,+33077983624,2023-01-20,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Deliveroo,téléphone; mot_de_passe; adresse; données_bancaires,nicolas-bonnet31@orange.fr,+32048823139,2022-04-12,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAF,revenus; téléphone; identité; données_bancaires,nicolas-bonnet31@orange.fr,+41072319907,2019-04-07,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+SFR,téléphone; identité; données_bancaires; email; mot_de_passe,nicolas-fournier@live.fr,+352060789224,2019-03-21,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Carrefour,mot_de_passe; téléphone,nicolas-fournier@live.fr,+14165598738,2018-11-23,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; mot_de_passe; données_bancaires; email; téléphone,nicolas-fournier@live.fr,+33072193903,2024-04-13,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; données_bancaires; revenus; identité,nicolas-martin@icloud.com,+33079996883,2022-04-26,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+Orange,mot_de_passe; adresse,nicolas-martin@icloud.com,+33067736580,2024-01-20,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; données_bancaires; historique_achats,nicolas-martin@icloud.com,+34629764332,2019-02-26,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+Facebook,identité; téléphone,nicolas_guérin@numericable.fr,+14168533305,2019-04-25,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Basic Fit,téléphone; adresse; identité; mot_de_passe; email,nicolas_guérin@numericable.fr,+21652182645,2018-03-29,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,données_bancaires; téléphone; email; mot_de_passe; adresse,nicolas_guérin@numericable.fr,+15148688442,2019-05-08,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Engie,identité; adresse,oceane-bernard@orange.fr,+34732877932,2020-02-12,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,email; téléphone; données_bancaires,oceane-bernard@orange.fr,+21623295469,2022-09-17,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Doctolib,email; données_médicales; identité,oceane-bernard@orange.fr,+33069812026,2019-08-05,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,données_bancaires; email; adresse; téléphone,oceane-bernard@orange.fr,+41071045902,2021-09-23,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Impôts (DGFiP),revenus; adresse,oceane-clément47@yahoo.fr,+33064739960,2021-11-29,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+Ameli / CPAM,adresse; numéro_sécu; données_médicales; téléphone; email,oceane-clément47@yahoo.fr,+33075034714,2018-08-13,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Airbnb FR,téléphone; email,oceane.morin@protonmail.com,+33073382192,2021-11-02,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Doctolib,identité; téléphone; données_médicales; email; numéro_sécu,oceane_dumont@numericable.fr,+34643093473,2025-01-05,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Leetchi,email; identité; données_bancaires; mot_de_passe,paul.lambert@laposte.net,+33064655597,2022-02-26,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,téléphone; numéro_sécu; revenus,paul.lambert@laposte.net,+32049860664,2019-02-03,0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,0
+Sephora,mot_de_passe; téléphone,paul.lambert@laposte.net,+34794739339,2023-02-09,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,identité; téléphone; email; adresse,paul.lambert@laposte.net,+33062911815,2020-05-10,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Engie,identité; téléphone; adresse,paul.petit@yahoo.fr,+33077556903,2018-05-28,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,adresse; mot_de_passe,paul.robin78@gmail.com,+34726124836,2019-08-29,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Carrefour,mot_de_passe; téléphone; email; identité; données_bancaires,paul.robin78@gmail.com,+33066687070,2025-01-17,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,email; adresse; identité,paul.robin78@gmail.com,+34696361685,2018-02-06,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Fnac,mot_de_passe; email; données_bancaires,paul_andré21@live.fr,+33067644681,2022-08-31,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Boursorama,email; données_bancaires; identité,paul_andré21@live.fr,+21621261142,2024-05-29,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+MSA,adresse; email,paul_andré21@live.fr,+490159445063,2018-11-09,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+EDF,données_bancaires; email; téléphone,paul_andré21@live.fr,+32048119662,2023-08-03,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Carrefour,adresse; données_bancaires,paul_andré21@live.fr,+33061568931,2022-11-27,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,identité; téléphone; adresse; IBAN; email,paul_andré21@live.fr,+212067891937,2022-12-08,1,0,0,1,1,1,0,0,0,0,0,1,0,0,0,0
+MAIF,adresse; téléphone; email; identité,paul_andré21@live.fr,+440781137845,2021-02-05,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Facebook,téléphone; données_localisation,paul_durand34@outlook.fr,+33060413657,2022-07-28,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+MyBriquet / Veepee,email; mot_de_passe; identité,paul_durand34@outlook.fr,+440763436135,2023-01-15,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+EDF,email; données_bancaires; téléphone; adresse; numéro_contrat,paul_durand34@outlook.fr,+33071385448,2018-06-04,1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+Blablacar,téléphone; identité; email,paul_durand34@outlook.fr,+33068987528,2018-05-02,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,identité; IBAN; email; données_bancaires,paul_durand34@outlook.fr,+41070114302,2025-01-15,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Bpifrance,identité; email; revenus; numéro_sécu; données_bancaires,paul_durand34@outlook.fr,+33079712235,2019-10-24,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+SNCF / OUI.sncf,téléphone; adresse; données_bancaires; email; identité,paul_durand34@outlook.fr,+33065423984,2018-02-10,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Bpifrance,email; identité; données_bancaires; revenus; numéro_sécu,paul_simon72@laposte.net,+21622136543,2023-10-18,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+Paylib,identité; email; IBAN; données_bancaires,paul_simon72@laposte.net,+41071387915,2021-05-12,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Leboncoin,adresse; identité; mot_de_passe,paul_simon72@laposte.net,+33071545409,2018-01-16,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+SFR,données_bancaires; identité; mot_de_passe; email,paul_simon72@laposte.net,+440763139138,2018-06-01,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+MAIF,téléphone; identité; email; données_bancaires,paul_simon72@laposte.net,+33065708063,2020-11-27,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,mot_de_passe; permis_conduire,paul_simon72@laposte.net,+34603908587,2020-03-24,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0
+Crédit Agricole,IBAN; adresse; identité; numéro_sécu; données_bancaires,paul_thomas@sfr.fr,+34708012738,2019-02-12,1,0,1,0,0,1,0,1,0,0,0,1,0,0,0,0
+CAF,identité; revenus; numéro_sécu; email; données_bancaires,paul_thomas@sfr.fr,+16476203545,2024-06-13,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+Amazon FR,données_bancaires; mot_de_passe; email; historique_achats,paul_thomas@sfr.fr,+33065094549,2025-01-25,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0
+La Banque Postale,téléphone; identité; email,paulfaure@yahoo.fr,+33068248938,2023-03-19,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Fnac,email; données_bancaires,paulfaure@yahoo.fr,+352069223520,2025-05-09,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,identité; IBAN; données_bancaires,paulfaure@yahoo.fr,+213061611230,2021-06-02,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Uber Eats,téléphone; mot_de_passe; adresse; email; données_bancaires,pauline-bernard@protonmail.com,+16474926400,2023-08-10,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Cdiscount,mot_de_passe; email; téléphone; adresse; identité,pauline-bernard@protonmail.com,+440731658555,2018-03-19,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Intermarché,identité; adresse,pauline-bernard@protonmail.com,+212072384587,2022-12-24,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,IBAN; email; adresse,pauline-bernard@protonmail.com,+41077159008,2024-12-10,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Facebook,email; données_localisation,pauline.durand@bbox.fr,+33071673187,2018-02-18,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
+Orange,email; mot_de_passe; téléphone; identité; adresse,pauline.durand@bbox.fr,+213067872861,2021-03-26,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Decathlon,adresse; mot_de_passe; email; identité; téléphone,pauline.durand@bbox.fr,+352067309137,2019-12-19,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Intermarché,identité; téléphone; email; mot_de_passe; adresse,pauline.durand@bbox.fr,+33063769098,2020-03-08,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+AXA,données_médicales; numéro_sécu; données_bancaires; email,pauline.durand@bbox.fr,+33061639824,2022-01-28,0,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Société Générale,identité; email; adresse,pauline.durand@bbox.fr,+33079110105,2023-05-15,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,email; données_bancaires,pauline.nicolas@icloud.com,+33079409911,2022-12-23,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,identité; email; mot_de_passe,pauline.nicolas@icloud.com,+21696393253,2023-11-27,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,mot_de_passe; téléphone; adresse; email,pauline.nicolas@icloud.com,+213059620352,2024-06-04,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Blablacar,email; mot_de_passe,pauline.nicolas@icloud.com,+33079182627,2019-02-21,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Bpifrance,numéro_sécu; revenus; données_bancaires; identité,pauline.roussel43@laposte.net,+32048904992,2018-01-11,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+Airbnb FR,identité; données_bancaires; email; téléphone,pauline.roussel43@laposte.net,+352069117243,2022-07-06,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,mot_de_passe; adresse,pauline.roussel43@laposte.net,+490160525419,2022-05-17,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Paylib,identité; email; IBAN; données_bancaires,pauline.roussel43@laposte.net,+41071319955,2024-04-09,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Nocibé,identité; email; téléphone,pauline.roussel43@laposte.net,+14163050206,2025-04-17,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; email; données_bancaires,pauline.roussel43@laposte.net,+14166842092,2023-08-07,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Doctolib,identité; numéro_sécu,pauline.roussel43@laposte.net,+32048785510,2022-08-23,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Engie,identité; adresse; email,pauline.roussel43@laposte.net,+16477107072,2024-12-18,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,mot_de_passe; téléphone; email; données_bancaires,paulinedupont@sfr.fr,+33073684192,2021-09-07,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; IBAN; numéro_sécu,pierre_laurent@wanadoo.fr,+32048403196,2023-09-01,1,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Voyages-sncf,email; adresse,pierrefournier61@numericable.fr,+33068536020,2025-05-24,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nocibé,téléphone; email; adresse,pierrefournier61@numericable.fr,+21659694017,2022-05-29,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+MSA,revenus; données_médicales; adresse; email; numéro_sécu,pierrefournier61@numericable.fr,+15145027611,2019-07-18,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Nespresso,données_bancaires; email; identité; adresse; mot_de_passe,pierrefournier61@numericable.fr,+32048907476,2023-01-28,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Paylib,données_bancaires; IBAN,pierrefournier61@numericable.fr,+34792772660,2025-01-20,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Engie,téléphone; adresse,pierrefournier61@numericable.fr,+33069083861,2019-06-13,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Free,email; identité; données_bancaires,pierrefournier61@numericable.fr,+14386774780,2023-05-08,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Free,adresse; données_bancaires,pierrefournier61@numericable.fr,+440792971650,2024-12-22,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Blablacar,email; téléphone; identité,quentin.lefèvre@sfr.fr,+32043700778,2024-10-18,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Facebook,identité; email; téléphone,quentin_bertrand35@yahoo.fr,+352063897884,2024-06-09,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Engie,données_bancaires; identité; email; téléphone; adresse,quentin_bertrand35@yahoo.fr,+33061284919,2023-09-10,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+SFR,données_bancaires; mot_de_passe,quentin_lopez69@gmail.com,+21624578998,2024-06-05,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; email; mot_de_passe; téléphone; identité,quentin_lopez69@gmail.com,+212077083900,2020-10-07,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,adresse; téléphone; données_bancaires,quentin_lopez69@gmail.com,+33062769398,2023-06-10,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,données_bancaires; email; identité,quentinleroy32@outlook.fr,+33061436731,2020-11-08,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+LinkedIn,identité; mot_de_passe,quentinleroy32@outlook.fr,+33063908406,2021-01-10,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Darty,adresse; email; identité; données_bancaires; mot_de_passe,quentinleroy32@outlook.fr,+33063089002,2021-05-24,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Basic Fit,téléphone; mot_de_passe; identité; email; adresse,quentinleroy32@outlook.fr,+21697691544,2023-08-13,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Basic Fit,données_bancaires; mot_de_passe; identité,quentinleroy32@outlook.fr,+34605123413,2024-01-16,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,mot_de_passe; adresse; téléphone; identité; email,raphael-garcia35@wanadoo.fr,+212072269194,2023-11-23,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,numéro_sécu; données_médicales; téléphone; email,raphael-garcia35@wanadoo.fr,+212078452047,2022-08-19,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Nespresso,mot_de_passe; identité,raphael-garcia35@wanadoo.fr,+32049121153,2019-11-22,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Veolia,email; identité; adresse,raphael-garcia35@wanadoo.fr,+16476286639,2019-01-30,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,données_bancaires; identité,raphael-robin@bbox.fr,+21624631425,2023-06-14,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cdiscount,email; identité; téléphone; mot_de_passe,raphael-robin@bbox.fr,+440795294934,2022-05-11,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Paylib,données_bancaires; identité; IBAN; email,raphael-robin@bbox.fr,+15144370353,2019-01-17,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Boulanger,identité; email; mot_de_passe,raphael-robin@bbox.fr,+213054133728,2024-02-21,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+MSA,revenus; numéro_sécu; adresse; email; données_médicales,raphael-robin@bbox.fr,+41076072028,2025-04-14,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Leboncoin,adresse; identité; mot_de_passe; email,raphael-robin@bbox.fr,+15146066979,2018-01-18,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Engie,email; adresse; identité,raphael-robin@bbox.fr,+33060123763,2020-03-16,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Intermarché,adresse; identité,raphael.bernard@sfr.fr,+34736638894,2022-06-30,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+MSA,numéro_sécu; données_médicales; email; revenus; adresse,raphael.bernard@sfr.fr,+21625493326,2020-01-21,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+EDF,données_bancaires; identité; email; téléphone,raphael.bernard@sfr.fr,+33068139055,2021-05-07,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boulanger,email; mot_de_passe; données_bancaires; adresse; identité,raphael.bernard@sfr.fr,+490172792867,2022-12-10,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Basic Fit,email; adresse; téléphone,raphael.morel@numericable.fr,+213055992696,2024-03-24,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Veolia,téléphone; données_bancaires,raphael.morel@numericable.fr,+33079630871,2018-11-01,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+AXA,données_bancaires; adresse; numéro_sécu; email,raphael.morel@numericable.fr,+41072930428,2018-12-11,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Drivy / Getaround,mot_de_passe; données_bancaires; permis_conduire; identité; email,raphael.morel@numericable.fr,+14161247185,2018-10-03,0,0,1,0,1,1,1,0,0,0,0,0,0,0,1,0
+Twitter/X,téléphone; email; mot_de_passe; identité,raphael_clément33@live.fr,+34647511975,2019-04-14,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Vinted,email; téléphone; mot_de_passe; données_bancaires,raphael_clément33@live.fr,+33061658788,2023-09-09,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Decathlon,identité; email,raphaelroux60@protonmail.com,+33061417942,2022-06-03,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,email; IBAN,raphaelroux60@protonmail.com,+33071808370,2021-01-26,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+Leetchi,mot_de_passe; identité; email,raphaelroux60@protonmail.com,+213073815519,2021-09-22,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+BNP Paribas,téléphone; données_bancaires; identité; IBAN,raphaelroux60@protonmail.com,+15148506905,2025-04-05,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0
+Decathlon,identité; adresse; téléphone; mot_de_passe,romain-mercier97@outlook.fr,+352068437163,2024-04-18,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Veolia,email; téléphone; données_bancaires; identité,romain-mercier97@outlook.fr,+440757113952,2021-10-21,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Free,identité; données_bancaires,romain-mercier97@outlook.fr,+213052779427,2024-08-31,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,numéro_sécu; identité,romain-morel62@hotmail.fr,+212066561551,2020-09-22,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Basic Fit,mot_de_passe; téléphone; adresse; identité; email,romain-morel62@hotmail.fr,+33065324782,2021-10-07,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Nocibé,adresse; identité,romain-morel62@hotmail.fr,+33076963687,2023-04-30,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Dailymotion,mot_de_passe; email,romain-morel62@hotmail.fr,+33077026367,2018-04-29,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+LinkedIn,mot_de_passe; CV; téléphone; identité; email,romain-morel62@hotmail.fr,+21650493928,2020-04-28,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+Blablacar,mot_de_passe; téléphone; identité,romain-morel62@hotmail.fr,+33072292430,2022-04-23,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,email; adresse; données_bancaires,romain-richard16@bbox.fr,+490151054538,2022-08-17,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Free,identité; email,romain-richard16@bbox.fr,+33079420282,2023-09-09,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Decathlon,identité; mot_de_passe; email,romain-richard16@bbox.fr,+41072246075,2022-02-23,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Nespresso,email; données_bancaires; identité; mot_de_passe; adresse,romain-richard16@bbox.fr,+14382510355,2021-09-28,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Pôle Emploi,adresse; revenus; CV; email,romain-richard16@bbox.fr,+33077588014,2019-08-14,1,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0
+Darty,identité; données_bancaires,romain-richard16@bbox.fr,+33063993368,2020-12-28,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,téléphone; adresse,romain-richard16@bbox.fr,+490153781389,2020-07-24,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Paylib,IBAN; email; identité; données_bancaires,romain-richard16@bbox.fr,+490171075974,2022-04-03,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Decathlon,téléphone; mot_de_passe; adresse,romain-vincent56@laposte.net,+33065274530,2024-05-12,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+RATP,identité; téléphone; email,romain.lambert85@bbox.fr,+21629293624,2024-12-01,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boursorama,IBAN; mot_de_passe,romain.lambert85@bbox.fr,+32049232921,2023-02-22,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0
+Voyages-sncf,adresse; données_bancaires,romain.lambert85@bbox.fr,+33073748013,2019-06-28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Yves Rocher,email; adresse,romain.lambert85@bbox.fr,+33077454787,2023-07-16,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,téléphone; données_bancaires; email; mot_de_passe,romain_martinez@hotmail.fr,+32047656046,2024-12-06,0,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+MAIF,identité; données_bancaires; téléphone,romain_martinez@hotmail.fr,+21691153795,2022-09-01,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+BNP Paribas,adresse; données_bancaires; email,romain_martinez@hotmail.fr,+440794175560,2018-03-23,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Veolia,données_bancaires; adresse,sarah-legrand98@laposte.net,+490163956391,2022-02-07,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,adresse; email; téléphone; identité,sarah-legrand98@laposte.net,+33079872397,2021-03-10,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+LinkedIn,téléphone; email; identité; CV,sarah-legrand98@laposte.net,+16472397250,2024-04-13,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+Boursorama,données_bancaires; email,sarah-legrand98@laposte.net,+14165112098,2018-08-21,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Decathlon,adresse; email; identité; téléphone; mot_de_passe,sarah-robin78@outlook.fr,+32049999333,2022-09-06,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,adresse; téléphone; identité; email; données_bancaires,sarah-robin78@outlook.fr,+34783602874,2020-01-11,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Facebook,données_localisation; identité; email,sarah-roussel92@outlook.fr,+490176282417,2024-06-27,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+Doctolib,téléphone; email; données_médicales; identité; numéro_sécu,sarah-roussel92@outlook.fr,+212071521784,2021-01-24,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Drivy / Getaround,téléphone; email,sarah-roussel92@outlook.fr,+33075874453,2021-08-15,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Doctolib,données_médicales; numéro_sécu,sarah-roussel92@outlook.fr,+41078009314,2024-11-14,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Bpifrance,données_bancaires; email; numéro_sécu,sarah.blanc14@hotmail.fr,+32049510783,2021-04-26,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Engie,téléphone; données_bancaires; email,sarah.blanc14@hotmail.fr,+213058640643,2023-12-26,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Orange,identité; adresse; email; mot_de_passe; données_bancaires,sarah.blanc14@hotmail.fr,+14385228878,2018-07-12,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Cdiscount,identité; email; données_bancaires,sarah.blanc14@hotmail.fr,+33074996285,2019-01-08,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+La Banque Postale,identité; adresse,sarah.blanc14@hotmail.fr,+33068511919,2022-09-16,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Boursorama,données_bancaires; identité,sarah.blanc14@hotmail.fr,+33070839752,2019-12-02,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Just Eat,email; adresse; données_bancaires,sarah.blanc14@hotmail.fr,+34642974966,2024-06-18,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Intermarché,identité; email; adresse; téléphone; mot_de_passe,sarah.blanc14@hotmail.fr,+33065081927,2025-01-05,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Uber Eats,email; téléphone; mot_de_passe,sarah.dumont45@numericable.fr,+212064423171,2023-10-06,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Deezer,email; données_bancaires; identité,sarah.dumont45@numericable.fr,+33076989595,2019-02-25,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Engie,adresse; téléphone; email,sarah.dumont45@numericable.fr,+21621887037,2025-01-22,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Bpifrance,identité; email,sarah.dumont45@numericable.fr,+14161458835,2019-02-08,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,email; adresse; mot_de_passe; téléphone; identité,sarah.dumont45@numericable.fr,+352062847615,2024-07-26,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,email; mot_de_passe; historique_achats,sarah.dumont45@numericable.fr,+33068679248,2021-06-02,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0
+Lidl Plus,identité; adresse; données_bancaires,sarah.françois60@live.fr,+33071764906,2019-04-10,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+RATP,téléphone; données_bancaires,sarah.françois60@live.fr,+213073302309,2018-07-06,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fnac,téléphone; données_bancaires; mot_de_passe,sarah.françois60@live.fr,+33075779813,2021-06-13,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+MMA Assurances,données_médicales; identité; email,sarah.françois60@live.fr,+33076085206,2022-03-13,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+SFR,email; identité; téléphone; données_bancaires,sarah.françois60@live.fr,+33061801012,2020-03-16,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Deliveroo,données_bancaires; mot_de_passe,sarah.françois60@live.fr,+212060860469,2023-11-16,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+AXA,numéro_sécu; adresse; données_médicales,sarah.françois60@live.fr,+33073425224,2021-04-10,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Nocibé,identité; email; adresse,sarah.françois60@live.fr,+33077964001,2022-10-06,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Decathlon,téléphone; email; identité; mot_de_passe,sarah.françois60@live.fr,+33069401024,2018-10-30,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deliveroo,adresse; mot_de_passe; données_bancaires; téléphone,sarah.françois60@live.fr,+440772781592,2024-04-28,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,données_médicales; identité; numéro_sécu; email; téléphone,sarah.robin85@outlook.fr,+352062256828,2019-02-03,0,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0
+Boulanger,identité; mot_de_passe; adresse,sarah.robin85@outlook.fr,+33068978447,2021-09-28,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+LinkedIn,CV; identité; email; téléphone,sarah.robin85@outlook.fr,+32049429825,2021-03-12,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+Doctolib,email; téléphone; numéro_sécu; données_médicales,sarah_andré@outlook.fr,+352068965323,2018-01-21,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0
+Twitter/X,téléphone; mot_de_passe; email,sarah_andré@outlook.fr,+212079260158,2022-12-14,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+SFR,téléphone; données_bancaires; identité; email; adresse,sarah_andré@outlook.fr,+33067595172,2018-02-18,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Veolia,email; téléphone,sarah_andré@outlook.fr,+33063563899,2020-04-30,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+AXA,numéro_sécu; données_bancaires; identité; email; adresse,sarah_andré@outlook.fr,+33077108588,2023-09-27,1,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+Bpifrance,revenus; numéro_sécu; email; identité; données_bancaires,sarah_andré@outlook.fr,+21625964623,2024-04-04,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+Uber Eats,téléphone; adresse,sarah_bernard@yahoo.fr,+352064157969,2020-03-08,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Dailymotion,identité; mot_de_passe; email,sarah_bernard@yahoo.fr,+33069454421,2021-08-05,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,adresse; email; numéro_sécu,sarah_bernard@yahoo.fr,+32048730992,2021-03-05,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Nespresso,adresse; identité,sarah_bernard@yahoo.fr,+14389200155,2023-09-18,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Basic Fit,mot_de_passe; téléphone; adresse,sarah_bernard@yahoo.fr,+33075804677,2025-01-17,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,identité; adresse; email,sarah_dubois29@hotmail.fr,+33068716684,2019-06-02,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Amazon FR,email; adresse; historique_achats,sarah_dubois29@hotmail.fr,+33068011755,2020-06-05,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Blablacar,email; mot_de_passe; identité; téléphone,sarah_garcia74@outlook.fr,+14169672028,2024-07-06,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Deliveroo,mot_de_passe; téléphone; adresse,sarah_garcia74@outlook.fr,+33061930500,2018-01-21,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Veolia,téléphone; email; identité; adresse,sarah_garcia74@outlook.fr,+33077858028,2020-01-16,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,mot_de_passe; adresse; données_bancaires,sarah_garcia74@outlook.fr,+213056752715,2022-06-07,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Dailymotion,email; identité; mot_de_passe,sarah_garcia74@outlook.fr,+212066633641,2018-03-15,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+Lidl Plus,identité; téléphone; données_bancaires,sarahbertrand@protonmail.com,+41074074506,2022-11-12,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,numéro_sécu; identité,sarahbertrand@protonmail.com,+41072428505,2018-05-20,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,données_bancaires; téléphone; identité,sarahmercier@icloud.com,+15142779125,2025-01-08,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+CAF,identité; téléphone; données_bancaires,sarahmercier@icloud.com,+352062128402,2019-03-31,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+MSA,numéro_sécu; données_médicales; adresse,sarahmercier@icloud.com,+33079920306,2022-05-24,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Cdiscount,adresse; téléphone,sarahmercier@icloud.com,+33060529357,2018-03-08,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Carrefour,adresse; données_bancaires; email; mot_de_passe,sebastien-lefèvre@icloud.com,+33076564084,2020-08-23,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+AXA,adresse; données_bancaires,sebastien-lefèvre@icloud.com,+33077592350,2024-04-17,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Free,téléphone; adresse; mot_de_passe; identité,sebastien-lefèvre@icloud.com,+32049417226,2022-06-19,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Free,mot_de_passe; email; téléphone; données_bancaires; adresse,sebastien-lefèvre@icloud.com,+21651963768,2021-02-22,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Basic Fit,email; mot_de_passe; adresse,sebastien.dupont85@sfr.fr,+33074343615,2021-08-25,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; mot_de_passe,sebastien.dupont85@sfr.fr,+21622334382,2019-06-27,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Boulanger,email; identité; adresse,sebastien.dupont85@sfr.fr,+16472144831,2019-04-03,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+LinkedIn,téléphone; email; identité; CV,sebastien.dupont85@sfr.fr,+16476927870,2023-11-06,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+Bouygues Telecom,mot_de_passe; téléphone; email,sebastien.dupont85@sfr.fr,+212060367999,2023-09-10,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Carrefour,mot_de_passe; identité; email; données_bancaires; adresse,sebastien.dupont85@sfr.fr,+213075101346,2020-02-08,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Boursorama,identité; email; données_bancaires,sebastien.muller@hotmail.fr,+41077082475,2021-04-03,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Deezer,données_bancaires; mot_de_passe; identité,sebastien.muller@hotmail.fr,+33062923487,2018-03-28,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+EDF,téléphone; données_bancaires; numéro_contrat,sebastien.robert@gmail.com,+33075142993,2023-06-22,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0
+MMA Assurances,données_médicales; numéro_sécu; adresse; email; identité,sebastien.robert@gmail.com,+34656462362,2023-06-25,1,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+SFR,identité; mot_de_passe; téléphone; adresse; email,sebastien.robert@gmail.com,+212067280835,2018-06-08,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Intermarché,téléphone; email; mot_de_passe; adresse,sebastien.robert@gmail.com,+33066955929,2021-11-18,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+SFR,mot_de_passe; identité,sebastien_blanc@icloud.com,+490150852554,2022-04-02,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+MAIF,identité; données_bancaires; adresse; téléphone,sebastien_blanc@icloud.com,+32049571230,2022-04-26,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Blablacar,mot_de_passe; téléphone,sebastien_blanc@icloud.com,+33077942146,2019-10-02,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Blablacar,identité; email; téléphone; mot_de_passe,sebastien_blanc@icloud.com,+33075188616,2019-05-16,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Sephora,données_bancaires; mot_de_passe; identité; adresse; email,sebastien_petit69@sfr.fr,+440723802644,2024-01-22,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Leetchi,email; identité; mot_de_passe; données_bancaires,sebastien_petit69@sfr.fr,+34670768645,2023-02-16,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Drivy / Getaround,identité; mot_de_passe,sebastien_petit69@sfr.fr,+33079395095,2023-06-23,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Facebook,email; données_localisation; téléphone; identité,sebastien_petit69@sfr.fr,+33065441764,2022-03-19,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,1
+Basic Fit,identité; adresse; email,sebastienmuller@laposte.net,+33060043191,2021-09-15,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Voyages-sncf,email; données_bancaires,sebastienmuller@laposte.net,+33079724696,2023-03-16,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+LinkedIn,mot_de_passe; téléphone; CV; identité,sebastienmuller@laposte.net,+213070419446,2019-09-12,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+EDF,numéro_contrat; email; adresse; données_bancaires,sebastienmuller@laposte.net,+34646013894,2020-09-19,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+SNCF / OUI.sncf,identité; téléphone; données_bancaires,sebastienmuller@laposte.net,+33079642906,2021-03-03,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Basic Fit,mot_de_passe; identité; téléphone; données_bancaires,sebastienperrin60@numericable.fr,+33064202305,2019-08-18,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Blablacar,email; identité; mot_de_passe; téléphone,sebastienperrin60@numericable.fr,+352063353895,2020-12-22,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Basic Fit,identité; données_bancaires; téléphone; mot_de_passe; adresse,sebastienperrin60@numericable.fr,+33068004833,2023-05-16,1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Carrefour,téléphone; adresse,sebastienperrin60@numericable.fr,+213074004724,2018-12-15,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Fnac,identité; données_bancaires; email; téléphone; adresse,sebastienrobert@live.fr,+33076002094,2023-11-12,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+EDF,identité; données_bancaires; adresse; numéro_contrat; téléphone,sebastienrobert@live.fr,+33072009605,2019-11-30,1,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+Deezer,identité; données_bancaires; email; mot_de_passe,sophie-henry67@gmail.com,+34627588548,2024-08-05,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+RATP,identité; email; téléphone; données_bancaires,sophie-henry67@gmail.com,+490154693846,2018-08-02,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Veolia,identité; téléphone; données_bancaires; adresse,sophie-henry67@gmail.com,+212063489240,2019-01-16,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Facebook,email; données_localisation; téléphone,sophie-henry67@gmail.com,+34791413838,2024-12-17,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1
+Nespresso,données_bancaires; identité; adresse; email; mot_de_passe,sophie-henry67@gmail.com,+213079976290,2021-03-02,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+SFR,adresse; données_bancaires; téléphone; identité,sophie-henry67@gmail.com,+33063971680,2023-02-12,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+AXA,adresse; numéro_sécu; données_médicales; email,sophie-henry67@gmail.com,+14163432600,2019-03-15,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0
+Just Eat,mot_de_passe; email; téléphone; données_bancaires; adresse,sophie-mercier65@yahoo.fr,+352064612807,2023-09-05,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+CAF,numéro_sécu; données_bancaires,sophie-mercier65@yahoo.fr,+34638884758,2025-01-05,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Nocibé,email; téléphone; identité; mot_de_passe; adresse,sophie-mercier65@yahoo.fr,+41071944094,2023-02-18,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,données_bancaires; adresse; mot_de_passe; email; identité,sophie-mercier65@yahoo.fr,+14388850068,2022-07-27,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Vinted,identité; téléphone; données_bancaires,sophie-mercier65@yahoo.fr,+21659507305,2021-02-04,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,identité; numéro_sécu,sophie-mercier65@yahoo.fr,+41071916113,2023-01-15,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+CAF,identité; numéro_sécu; revenus; adresse; données_bancaires,sophie-mercier65@yahoo.fr,+490175206256,2024-05-28,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+Bpifrance,identité; numéro_sécu; revenus; données_bancaires,sophie-mercier65@yahoo.fr,+33063767112,2021-05-22,0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+Leboncoin,adresse; identité; mot_de_passe,sophie-robert83@free.fr,+14387853046,2022-02-15,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Boulanger,identité; email,sophie-robert83@free.fr,+32046805023,2023-09-03,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Nespresso,email; adresse; données_bancaires; identité; mot_de_passe,sophie.mathieu83@wanadoo.fr,+33079501787,2019-09-22,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+MSA,numéro_sécu; revenus; adresse; email,sophie.mathieu83@wanadoo.fr,+213050856894,2019-01-22,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0
+Voyages-sncf,mot_de_passe; données_bancaires,sophie.mathieu83@wanadoo.fr,+440763709830,2021-10-06,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,données_bancaires; téléphone; identité; email; mot_de_passe,sophie.mathieu83@wanadoo.fr,+33075732563,2021-12-24,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Leboncoin,identité; adresse; mot_de_passe; email; téléphone,sophie.mathieu83@wanadoo.fr,+352069750904,2023-12-26,1,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Darty,adresse; identité; email; données_bancaires; mot_de_passe,sophie.mathieu83@wanadoo.fr,+34681495093,2018-01-28,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,email; adresse,sophie.robin@hotmail.fr,+33076099609,2022-04-04,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Twitter/X,identité; téléphone; email,sophie.robin@hotmail.fr,+34785927297,2023-11-05,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; identité,sophie.robin@hotmail.fr,+34669487552,2018-06-30,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Just Eat,email; adresse,sophie.robin@hotmail.fr,+213062520380,2025-04-01,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,email; données_bancaires,sophie_david96@bbox.fr,+33064640204,2018-04-20,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+MMA Assurances,adresse; numéro_sécu; email; identité,sophie_david96@bbox.fr,+21658908609,2023-02-06,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0
+Cdiscount,adresse; identité; téléphone; données_bancaires,sophie_david96@bbox.fr,+21698853298,2025-01-01,1,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+Deezer,données_bancaires; email; identité; mot_de_passe,sophiefontaine@live.fr,+33079122725,2020-06-05,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Carrefour,téléphone; identité; données_bancaires; mot_de_passe; email,sophiefontaine@live.fr,+440797104534,2021-04-30,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,email; mot_de_passe; données_bancaires; adresse,sophiemathieu@orange.fr,+34723928343,2019-12-31,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+La Banque Postale,adresse; identité; données_bancaires,sophiemathieu@orange.fr,+440741929826,2021-08-29,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+MAIF,email; adresse; identité; données_bancaires; téléphone,sophiemathieu@orange.fr,+440745404804,2018-12-04,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Nocibé,email; téléphone; adresse,sophiemathieu@orange.fr,+32048079395,2023-12-09,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+Just Eat,adresse; email,sophiepetit65@hotmail.fr,+33072416023,2020-10-23,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,identité; mot_de_passe; données_bancaires; adresse,sophiepetit65@hotmail.fr,+14168074628,2024-10-28,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+MAIF,identité; données_bancaires,sophiepetit65@hotmail.fr,+33077428454,2018-08-15,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Sephora,identité; adresse; mot_de_passe; téléphone,sophiepetit65@hotmail.fr,+34786888473,2025-01-23,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0
+Paylib,email; identité; données_bancaires; IBAN,theo-dumont@gmail.com,+41074402761,2020-02-29,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+MAIF,téléphone; adresse; identité,theo-dumont@gmail.com,+440722860683,2022-12-04,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Leetchi,mot_de_passe; données_bancaires,theo-dumont@gmail.com,+212060455993,2020-07-30,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+AXA,email; données_bancaires; données_médicales; numéro_sécu; identité,theo.dumont@gmail.com,+352066534900,2023-07-04,0,1,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+BNP Paribas,email; identité,theo.roux99@free.fr,+212067868976,2022-08-10,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0
+Société Générale,téléphone; adresse,theo.roux99@free.fr,+213077698382,2021-09-07,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+Twitter/X,email; mot_de_passe; téléphone; identité,theo.roux99@free.fr,+33078569019,2025-04-29,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+Veolia,identité; données_bancaires,theo.roux99@free.fr,+490151380324,2021-03-23,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Deezer,identité; mot_de_passe,theo.roux99@free.fr,+440793349258,2025-02-02,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Paylib,données_bancaires; IBAN; identité,theo.roux@wanadoo.fr,+352064974761,2023-10-30,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Basic Fit,données_bancaires; email,theo.roux@wanadoo.fr,+352063945330,2021-08-27,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Free,données_bancaires; mot_de_passe; téléphone,theo.roux@wanadoo.fr,+33073716873,2018-08-19,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0
+CAF,revenus; adresse; données_bancaires; numéro_sécu; identité,theo.roux@wanadoo.fr,+352067948572,2023-12-01,1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,0
+EDF,numéro_contrat; identité; données_bancaires; email,theo.roux@wanadoo.fr,+21657693262,2019-11-20,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+Decathlon,mot_de_passe; adresse; téléphone; email,theochevalier36@orange.fr,+490177831091,2022-05-30,1,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; historique_achats; email,theolaurent89@free.fr,+33075059994,2024-12-08,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0
+Deezer,données_bancaires; identité; mot_de_passe; email,theolaurent89@free.fr,+352069903373,2023-01-28,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,identité; données_bancaires,theolaurent89@free.fr,+14167030634,2024-10-15,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Airbnb FR,email; mot_de_passe,theolaurent89@free.fr,+33072644255,2023-12-07,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+AXA,email; identité; données_bancaires,theolaurent89@free.fr,+21698260554,2021-03-31,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Ameli / CPAM,identité; numéro_sécu,theomartin95@yahoo.fr,+213053272285,2024-01-11,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+Drivy / Getaround,email; téléphone; mot_de_passe; permis_conduire; identité,theomartin95@yahoo.fr,+33061095786,2021-03-25,0,0,0,1,1,1,1,0,0,0,0,0,0,0,1,0
+Free,mot_de_passe; données_bancaires; identité,theomartin95@yahoo.fr,+490166227849,2018-12-02,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+CAF,téléphone; identité; numéro_sécu; revenus; adresse,theomartin95@yahoo.fr,+33068575592,2022-07-25,1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0
+Blablacar,email; téléphone; mot_de_passe; identité,theomartin95@yahoo.fr,+212077731006,2020-07-06,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0
+CAF,numéro_sécu; données_bancaires; revenus,theomartin95@yahoo.fr,+34772636253,2024-03-21,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0
+Crédit Agricole,adresse; email; identité; données_bancaires,theomartin95@yahoo.fr,+33063180609,2020-08-09,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Blablacar,mot_de_passe; identité,theomartin95@yahoo.fr,+33068327541,2025-04-06,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Vinted,identité; téléphone; email; données_bancaires,thomasrichard65@outlook.fr,+212061478170,2019-07-14,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Boursorama,IBAN; identité; mot_de_passe,thomasrichard65@outlook.fr,+352068557414,2024-05-15,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0
+MMA Assurances,données_bancaires; numéro_sécu; adresse,thomasrichard65@outlook.fr,+33079645152,2022-03-25,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+Yves Rocher,identité; adresse; téléphone,tom-leroy72@numericable.fr,+490179277136,2020-08-08,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Sephora,mot_de_passe; email; identité; données_bancaires,tom-leroy72@numericable.fr,+41079287779,2023-08-24,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+SFR,identité; mot_de_passe; adresse,tom-leroy72@numericable.fr,+352061834850,2022-06-24,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; données_bancaires,tom-leroy72@numericable.fr,+33072839731,2019-08-01,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Facebook,identité; téléphone; données_localisation,tom.lefebvre@yahoo.fr,+33075427146,2020-07-15,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1
+MMA Assurances,email; données_médicales,tom.lefebvre@yahoo.fr,+21658066698,2021-11-01,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nespresso,email; mot_de_passe; adresse; identité,tom.lefebvre@yahoo.fr,+32047982497,2024-01-06,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+MMA Assurances,adresse; données_bancaires; identité; numéro_sécu,tom.lefebvre@yahoo.fr,+33070915029,2023-08-13,1,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0
+Carrefour,email; téléphone,tom.lefebvre@yahoo.fr,+34670434093,2019-01-19,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+EDF,adresse; identité; email; numéro_contrat,tom.lefebvre@yahoo.fr,+213074943772,2018-07-21,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+Impôts (DGFiP),identité; données_fiscales; email; revenus,tom_muller@free.fr,+490170485710,2018-06-29,0,0,0,0,1,1,0,0,0,1,0,0,0,1,0,0
+MyBriquet / Veepee,données_bancaires; email; identité; mot_de_passe; adresse,tom_muller@free.fr,+490177315162,2019-06-16,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Société Générale,téléphone; identité,tom_muller@free.fr,+32042744178,2019-04-30,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Fnac,téléphone; adresse; identité,tom_robin@numericable.fr,+32048948206,2025-01-10,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+EDF,téléphone; email; numéro_contrat; identité,tom_robin@numericable.fr,+33071256603,2018-05-30,0,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+Nespresso,identité; adresse; email; données_bancaires; mot_de_passe,tom_robin@numericable.fr,+16474124715,2022-01-28,1,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Deezer,mot_de_passe; données_bancaires; identité,tom_robin@numericable.fr,+34724915046,2024-10-16,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+AXA,email; adresse; données_médicales,tom_robin@numericable.fr,+440774719750,2018-10-12,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+Cdiscount,mot_de_passe; téléphone,tom_robin@numericable.fr,+212079709978,2021-11-07,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+Boulanger,données_bancaires; mot_de_passe; identité,valentin-moreau42@hotmail.fr,+34758131599,2024-10-01,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+Just Eat,mot_de_passe; email,valentin-moreau42@hotmail.fr,+41072190160,2020-10-01,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Leboncoin,email; mot_de_passe; adresse; identité,valentin-moreau42@hotmail.fr,+33074603105,2024-08-20,1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0
+RATP,téléphone; données_bancaires; identité,valentin-moreau42@hotmail.fr,+33064756448,2024-11-15,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0
+LinkedIn,mot_de_passe; CV; identité,valentin-moreau42@hotmail.fr,+212068383478,2020-04-20,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0
+Nespresso,adresse; email; données_bancaires; mot_de_passe,valentin-moreau42@hotmail.fr,+14163723074,2020-06-24,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0
+Basic Fit,téléphone; email; données_bancaires; adresse; identité,valentin-moreau42@hotmail.fr,+490171687095,2019-11-17,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Société Générale,email; identité; données_bancaires; adresse; téléphone,valentin-moreau42@hotmail.fr,+440780175909,2018-01-03,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+MAIF,téléphone; données_bancaires; identité; email,valentin-moreau42@hotmail.fr,+14160905806,2021-09-14,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+Uber Eats,mot_de_passe; adresse; email,valentin-petit@sfr.fr,+213069079471,2018-04-13,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+CAF,revenus; identité; téléphone; données_bancaires,valentin-petit@sfr.fr,+15145409342,2024-04-16,0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,0
+Lidl Plus,données_bancaires; identité; adresse,valentin-petit@sfr.fr,+34702725423,2018-09-25,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
+Pôle Emploi,identité; téléphone,valentin-petit@sfr.fr,+352060843373,2018-10-30,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+Bpifrance,données_bancaires; numéro_sécu; email; revenus; identité,valentin-petit@sfr.fr,+33063363841,2021-08-30,0,0,1,0,1,1,0,1,0,1,0,0,0,0,0,0
+Deliveroo,adresse; téléphone; email; données_bancaires,valentin_lefebvre14@gmail.com,+21696608142,2021-06-18,1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0
+Uber Eats,mot_de_passe; téléphone; adresse; email; données_bancaires,valentin_lefebvre14@gmail.com,+33077161749,2018-03-28,1,0,1,1,1,0,1,0,0,0,0,0,0,0,0,0
+Crédit Agricole,données_bancaires; email,valentin_lefebvre14@gmail.com,+32048225015,2025-01-22,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Nespresso,adresse; mot_de_passe,valentin_lefebvre14@gmail.com,+213054325738,2024-04-21,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+Twitter/X,email; téléphone; identité,valentin_moreau@icloud.com,+34682466093,2020-05-23,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+Paylib,identité; IBAN; données_bancaires; email,valentin_moreau@icloud.com,+33062114364,2020-03-19,0,0,1,0,1,1,0,0,0,0,0,1,0,0,0,0
+Orange,email; données_bancaires,valentin_moreau@icloud.com,+16475662344,2024-02-09,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Deezer,email; données_bancaires; identité,valentin_moreau@icloud.com,+32048279076,2022-07-09,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+Fnac,email; adresse; données_bancaires,valentinfaure@numericable.fr,+33062915237,2023-10-06,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Boulanger,données_bancaires; email; identité; mot_de_passe,valentinfaure@numericable.fr,+440743068805,2021-11-01,0,0,1,0,1,1,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,téléphone; email; identité,valentinfaure@numericable.fr,+33068124915,2021-06-01,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0
+LinkedIn,identité; CV; email; téléphone; mot_de_passe,valentinfaure@numericable.fr,+21692888752,2021-09-08,0,0,0,1,1,1,1,0,1,0,0,0,0,0,0,0
+Veolia,téléphone; données_bancaires; adresse,valentinlefèvre@live.fr,+15144870075,2023-09-30,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+Bouygues Telecom,téléphone; mot_de_passe,valentinlefèvre@live.fr,+33063085546,2022-05-30,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+MyBriquet / Veepee,adresse; email; données_bancaires,valentinlefèvre@live.fr,+440744930854,2021-03-04,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+Société Générale,adresse; téléphone; email; identité; données_bancaires,zoe-blanc@laposte.net,+33069655982,2018-10-09,1,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0
+SNCF / OUI.sncf,identité; mot_de_passe; téléphone; données_bancaires,zoe-blanc@laposte.net,+490161187600,2022-05-17,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,0
+Amazon FR,adresse; mot_de_passe; email,zoe-blanc@laposte.net,+41074178757,2018-03-26,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0
+Leetchi,identité; mot_de_passe,zoe-blanc@laposte.net,+352061495497,2023-07-04,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0
+Airbnb FR,téléphone; email; identité; données_bancaires; mot_de_passe,zoe-blanc@laposte.net,+213050764504,2019-09-30,0,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0
+Voyages-sncf,données_bancaires; adresse; identité,zoe.durand95@outlook.fr,+33073373443,2021-04-08,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0
